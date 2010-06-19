@@ -1,4 +1,5 @@
-<?xml?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <workspace_user>
 	<active_project>
 		<label>ontopof</label>
@@ -41,7 +42,7 @@
 			<path>src\com\iil\web\ontopof\OnGoogleNewsCluster.java</path>
 			<source>true</source>
 			<index>1</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>src\com\iil\web\ontopof\Test_GoogleNewsCluster.java</path>
@@ -54,6 +55,18 @@
 			<source>true</source>
 			<index>3</index>
 			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\com\iil\web\ontopof\RSSFeedReader.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\com\iil\web\ontopof\GoogleFrequenceExtractor.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>true</active>
 		</docitem>
 	</open_files>
 </workspace_user>

@@ -47,10 +47,10 @@ class GoogleFrequenceExtractor {
 				} else return num;
 			}
 		}
-		
-		return 0;		
+
+		return 0;
 	}
-	
+
 	private static String getCNNewsSearchURL(String item) throws IOException {
 		URI uri = new URI("http://news.google.com/news?hl=zh-CN&ned=cn&q=" + item, false);
 		return uri.toString();
@@ -60,13 +60,13 @@ class GoogleFrequenceExtractor {
 		URI uri = new URI("http://news.google.com/search?hl=zh-CN&q=" + item, false);
 		return uri.toString();
 	}
-	
-	public static void main(String[] args) throws Exception{  
-	  	
+
+	public static void main(String[] args) throws Exception{
+
     	String testItem = "Î¢Èí";
     	System.out.println ("News results: " + GoogleFrequenceExtractor.getNewsFrequency(testItem));
     	System.out.println ("Search results: " + GoogleFrequenceExtractor.getSearchFrequency(testItem));
     }
-    
+
     public static final String SUFFIX = "Ïî·ûºÏ";
 }

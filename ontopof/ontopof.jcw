@@ -1,7 +1,10 @@
-<?xml?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <workspace>
 	<settings>
 		<label>ontopof</label>
+		<id>6</id>
+		<version>0</version>
 	</settings>
 	<users>
 		<user>
