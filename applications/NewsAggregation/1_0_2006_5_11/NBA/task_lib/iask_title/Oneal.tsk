@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>奥尼尔</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>奥尼尔</keyword>
+   </url>
+   <outfile>iask_oneal.xml</outfile>
+</rssgenconfig>

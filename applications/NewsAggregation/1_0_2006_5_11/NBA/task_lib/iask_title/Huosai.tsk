@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>活塞</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>活塞</keyword>
+   </url>
+   <outfile>iask_huosai.xml</outfile>
+</rssgenconfig>

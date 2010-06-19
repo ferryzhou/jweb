@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>互联网</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern2.txt</patternfile>
+     <keyword>互联网</keyword>
+     <keyword2>天极</keyword2>
+   </url>
+   <outfile>iask_internet_yesky.xml</outfile>
+</rssgenconfig>

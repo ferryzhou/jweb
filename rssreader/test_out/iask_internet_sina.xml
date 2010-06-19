@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>互联网</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>分析：微软互联网投资计划打击投资者信心</title>
+            <link>http://tech.sina.com.cn/i/2006-05-01/1148925895.shtml</link>
+            <description/>
+            <pubDate>Mon, 01 May 2006 11:48:51 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>VoIP成互联网新宠 Skype注册用户突破1亿</title>
+            <link>http://tech.sina.com.cn/i/2006-05-01/0935925850.shtml</link>
+            <description/>
+            <pubDate>Mon, 01 May 2006 09:35:03 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网络社区开启互联网新时代</title>
+            <link>http://tech.sina.com.cn/roll/2006-04-30/0948925012.shtml</link>
+            <description/>
+            <pubDate>Sun, 30 Apr 2006 09:48:08 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>英国007间谍机构开始招募互联网情报专家</title>
+            <link>http://tech.sina.com.cn/i/2006-04-30/0915924928.shtml</link>
+            <description/>
+            <pubDate>Sun, 30 Apr 2006 09:15:47 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google杀手年内面世 欲破英语对互联网统治</title>
+            <link>http://tech.sina.com.cn/i/2006-04-30/0912924923.shtml</link>
+            <description/>
+            <pubDate>Sun, 30 Apr 2006 09:12:47 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软大幅增加互联网投资 市值一夜缩水320亿</title>
+            <link>http://tech.sina.com.cn/it/2006-04-29/0736923267.shtml</link>
+            <description/>
+            <pubDate>Sat, 29 Apr 2006 07:36:53 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>王鹏飞：抓住无线互联网的机会</title>
+            <link>http://tech.sina.com.cn/i/2006-04-29/0732923245.shtml</link>
+            <description/>
+            <pubDate>Sat, 29 Apr 2006 07:32:51 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>德意志银行：2006年中国互联网成经济新动力</title>
+            <link>http://tech.sina.com.cn/i/2006-04-29/0151923118.shtml</link>
+            <description/>
+            <pubDate>Sat, 29 Apr 2006 01:51:39 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>2006年国内无线互联网广告营销市场启动</title>
+            <link>http://tech.sina.com.cn/i/2006-04-27/1803921052.shtml</link>
+            <description/>
+            <pubDate>Thu, 27 Apr 2006 18:03:52 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

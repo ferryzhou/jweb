@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>21世纪经济报道</title>
+        <description>Powered by Ferry(v0.01)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>
+                http://www.myjavaserver.com/~ferryzhou/chromatic.jpg           </url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>21世纪经济报道：“汉芯一号”调查</title>
+            <link>http://www.it.com.cn/f/news/061/25/228058.htm</link>
+            <description/>
+            <pubDate>Wed, 25 Jan 2006 10:51:43 -0700</pubDate>
+            <dc:creator>IT世界</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道：海外金融衍生品市场暗藏风险</title>
+            <link>http://finance.sina.com.cn/futuremarket/futuremarketfocus/20060110/17192264044.shtml</link>
+            <description/>
+            <pubDate>Tue, 10 Jan 2006 17:19:28 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>现场实录--21世纪经济报道资深记者杨瑞法谈如何...</title>
+            <link>http://chanye.sina.net/2006-01-07/273994.shtml</link>
+            <description/>
+            <pubDate>Sat, 07 Jan 2006 17:28:06 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道：3C融合标准乱象</title>
+            <link>http://tech.sina.com.cn/it/2006-01-07/1546813587.shtml</link>
+            <description/>
+            <pubDate>Sat, 07 Jan 2006 15:46:49 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道：资源价格渐进式“闯关”</title>
+            <link>http://finance.sina.com.cn/xiaofei/consume/20060103/0919476484.shtml</link>
+            <description/>
+            <pubDate>Tue, 03 Jan 2006 09:19:03 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>视频：21世纪经济报道刘洲伟PK中海油傅成玉</title>
+            <link>http://finance.sina.com.cn/manage/cfrw/20060101/17422243782.shtml</link>
+            <description/>
+            <pubDate>Sun, 01 Jan 2006 17:42:19 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道：低利率政策是否已走入死胡同</title>
+            <link>http://finance.sina.com.cn/review/20051231/13192243185.shtml</link>
+            <description/>
+            <pubDate>Sat, 31 Dec 2005 13:19:26 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道刘洲伟PK中海油傅成玉实录</title>
+            <link>http://finance.sina.com.cn/hy/20051228/21222235290.shtml</link>
+            <description/>
+            <pubDate>Wed, 28 Dec 2005 21:22:51 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道主编刘洲伟简介</title>
+            <link>http://finance.sina.com.cn/leadership/crz/20051228/18012235025.shtml</link>
+            <description/>
+            <pubDate>Wed, 28 Dec 2005 18:01:18 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>图文：21世纪经济报道市场总监梅波</title>
+            <link>http://finance.sina.com.cn/roll/20051216/11232204798.shtml</link>
+            <description/>
+            <pubDate>Fri, 16 Dec 2005 11:23:32 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title/>
+            <link/>
+            <description/>
+            <pubDate/>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>视频：21世纪经济报道主编刘洲伟颁奖现场致辞</title>
+            <link>http://tech.sina.com.cn/roll/2005-12-15/2212793525.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Dec 2005 22:12:46 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>图文：21世纪经济报道主编刘洲伟致辞</title>
+            <link>http://tech.sina.com.cn/i/2005-12-15/1455793256.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Dec 2005 14:55:47 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>东方论坛嘉宾-《21世纪经济报道》主编刘洲伟(图...</title>
+            <link>http://sh.house.sina.com.cn/2005-12-03/213228211.html</link>
+            <description/>
+            <pubDate>Sat, 03 Dec 2005 21:32:05 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>图文：21世纪经济报道2005年会主持人陈伟鸿</title>
+            <link>http://finance.sina.com.cn/roll/20051202/13332167673.shtml</link>
+            <description/>
+            <pubDate>Fri, 02 Dec 2005 13:33:31 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>图文：21世纪经济报道2005年会主持人蒉莺春</title>
+            <link>http://finance.sina.com.cn/roll/20051201/15352164005.shtml</link>
+            <description/>
+            <pubDate>Thu, 01 Dec 2005 15:35:23 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道：安徽禽流感患者许丽枝之死</title>
+            <link>http://news.sina.com.cn/c/2005-11-26/16148412010.shtml</link>
+            <description/>
+            <pubDate>Sat, 26 Nov 2005 16:14:24 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>2005年度传媒--报纸：《21世纪经济报道》</title>
+            <link>http://ent.sina.com.cn/x/2005-11-26/1557908873.html</link>
+            <description/>
+            <pubDate>Sat, 26 Nov 2005 15:57:02 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>图文：21世纪经济报道主编刘洲伟</title>
+            <link>http://finance.sina.com.cn/roll/20051123/15512141984.shtml</link>
+            <description/>
+            <pubDate>Wed, 23 Nov 2005 15:51:42 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道：中美确认交往理性</title>
+            <link>http://news.sina.com.cn/c/2005-11-23/15118382597.shtml</link>
+            <description/>
+            <pubDate>Wed, 23 Nov 2005 15:11:24 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>21世纪经济报道年会会议流程</title>
+            <link>http://finance.sina.com.cn/roll/20051118/14342130607.shtml</link>
+            <description/>
+            <pubDate>Fri, 18 Nov 2005 14:34:07 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

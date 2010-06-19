@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>重磅文章</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>传当当宝进入休眠期 当当C2C计划陷夭折迷局</title>
+            <link>http://tech.sina.com.cn/i/2006-03-23/0845875073.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 08:45:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>EVD国家专利被暗中质押 郝杰圈钱再露马脚</title>
+            <link>http://tech.sina.com.cn/it/2006-03-23/0738874907.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 07:38:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊杂志封面报道：繁荣还是泡沫</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1744868321.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>南都周刊：中国3G之父李世鹤谈TD的前世今生</title>
+            <link>http://tech.sina.com.cn/t/2006-03-14/1337866863.shtml</link>
+            <description/>
+            <pubDate>Tue, 14 Mar 2006 13:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>环球企业家杂志封面报道：谁是家庭娱乐之王</title>
+            <link>http://tech.sina.com.cn/it/2006-03-13/1618865700.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 16:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>神秘公司6亿美元北京造芯 台湾公司身影隐现</title>
+            <link>http://tech.sina.com.cn/it/2006-03-09/1441862584.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Mar 2006 14:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD击鼓传花接近终局 运营商3G发牌前逃亡</title>
+            <link>http://tech.sina.com.cn/t/2006-03-08/1325861186.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 13:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>国家实验室再遭人才贫血 科技生产力遇尴尬</title>
+            <link>http://news.sina.com.cn/c/2006-03-06/11139277018.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 11:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>珠三角IT制造遭劳工荒 大批工人流向长三角</title>
+            <link>http://tech.sina.com.cn/it/2006-03-06/1534858875.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 15:34:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>风投教父中国布道 22位创业CEO接受集体洗脑</title>
+            <link>http://tech.sina.com.cn/i/2006-03-04/1602857681.shtml</link>
+            <description/>
+            <pubDate>Sat, 04 Mar 2006 16:02:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>数字电视推行三步走战略 增长将现雪崩效应</title>
+            <link>http://tech.sina.com.cn/it/2006-03-04/1532857668.shtml</link>
+            <description/>
+            <pubDate>Sat, 04 Mar 2006 15:32:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>华为全国圈地否认抛弃深圳 内部分红计划曝光</title>
+            <link>http://tech.sina.com.cn/t/2006-03-04/1002857583.shtml</link>
+            <description/>
+            <pubDate>Sat, 04 Mar 2006 10:02:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>南方周末：少年玩家之死引发公益官司</title>
+            <link>http://news.sina.com.cn/c/2006-03-02/10389244090.shtml</link>
+            <description/>
+            <pubDate>Thu, 02 Mar 2006 10:38:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>华尔街做空盛大内幕 陈天桥公开信安抚员工</title>
+            <link>http://tech.sina.com.cn/i/2006-03-02/1556856154.shtml</link>
+            <description/>
+            <pubDate>Thu, 02 Mar 2006 15:56:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用友王氏改良运动满一年 渠道变革面临风险</title>
+            <link>http://tech.sina.com.cn/it/2006-03-01/1128854681.shtml</link>
+            <description/>
+            <pubDate>Wed, 01 Mar 2006 11:28:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网吧不再顶娱乐业虚名 文化部松绑赋税降低</title>
+            <link>http://tech.sina.com.cn/i/2006-02-25/0855851328.shtml</link>
+            <description/>
+            <pubDate>Sat, 25 Feb 2006 08:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>盛大转型互动娱乐 陈天桥一辈子在路上取经</title>
+            <link>http://tech.sina.com.cn/i/2006-02-18/0803844879.shtml</link>
+            <description/>
+            <pubDate>Sat, 18 Feb 2006 08:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>彩电四巨头液晶合资野心：深圳意欲赶超京沪</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/1526836914.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 15:26:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国企业家杂志封面报道：亚信迷局</title>
+            <link>http://tech.sina.com.cn/t/2006-02-05/1116832968.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 11:16:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商务周刊：佳能铁汉也柔情</title>
+            <link>http://tech.sina.com.cn/it/2006-01-23/1700827546.shtml</link>
+            <description/>
+            <pubDate>Mon, 23 Jan 2006 17:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>华为改变财务口径 纳税大户的利润之谜</title>
+            <link>http://tech.sina.com.cn/t/2006-01-19/1123824725.shtml</link>
+            <description/>
+            <pubDate>Thu, 19 Jan 2006 11:23:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>西门子收购港湾尘埃落定 全面对抗华为</title>
+            <link>http://tech.sina.com.cn/t/2006-01-17/1635822848.shtml</link>
+            <description/>
+            <pubDate>Tue, 17 Jan 2006 16:35:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>新经济导刊：2006年三方激战IPTV</title>
+            <link>http://tech.sina.com.cn/t/2006-01-16/1135821220.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 11:35:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G中国：一个创新样本的启示</title>
+            <link>http://tech.sina.com.cn/t/2006-01-14/0829820288.shtml</link>
+            <description/>
+            <pubDate>Sat, 14 Jan 2006 08:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G中国：一个创新样本的启示(2)</title>
+            <link>http://tech.sina.com.cn/t/2006-01-14/0829820294.shtml</link>
+            <description/>
+            <pubDate>Sat, 14 Jan 2006 08:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G中国：一个创新样本的启示(3)</title>
+            <link>http://tech.sina.com.cn/t/2006-01-14/0829820295.shtml</link>
+            <description/>
+            <pubDate>Sat, 14 Jan 2006 08:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G中国：一个创新样本的启示(4)</title>
+            <link>http://tech.sina.com.cn/t/2006-01-14/0829820296.shtml</link>
+            <description/>
+            <pubDate>Sat, 14 Jan 2006 08:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>西门子收购港湾幕后：风险投资商失去耐心</title>
+            <link>http://tech.sina.com.cn/t/2006-01-12/2130818950.shtml</link>
+            <description/>
+            <pubDate>Thu, 12 Jan 2006 21:30:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>北京现代商报：别了 我的寻呼年代</title>
+            <link>http://tech.sina.com.cn/t/2006-01-10/0826815317.shtml</link>
+            <description/>
+            <pubDate>Tue, 10 Jan 2006 08:26:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>《财经》：3G最后博弈 谁来担当TD组网重任</title>
+            <link>http://tech.sina.com.cn/t/2006-01-09/1500814764.shtml</link>
+            <description/>
+            <pubDate>Mon, 09 Jan 2006 15:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>环球企业家：新联想的成人礼</title>
+            <link>http://tech.sina.com.cn/it/2006-01-09/1345814591.shtml</link>
+            <description/>
+            <pubDate>Mon, 09 Jan 2006 13:45:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>国产平板电视遭遇面板瓶颈 三问彩电厂商</title>
+            <link>http://tech.sina.com.cn/it/2006-01-06/0958812696.shtml</link>
+            <description/>
+            <pubDate>Fri, 06 Jan 2006 09:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联想亚信动荡升级 传百名员工集体提出辞职</title>
+            <link>http://tech.sina.com.cn/it/2006-01-06/0156812097.shtml</link>
+            <description/>
+            <pubDate>Fri, 06 Jan 2006 01:56:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT经理世界：2006年将影响全球商业的技术</title>
+            <link>http://tech.sina.com.cn/it/2006-01-05/1206811631.shtml</link>
+            <description/>
+            <pubDate>Thu, 05 Jan 2006 12:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>上海文广叫板央视高清 称不会收取入门费</title>
+            <link>http://tech.sina.com.cn/it/2006-01-03/1817809537.shtml</link>
+            <description/>
+            <pubDate>Tue, 03 Jan 2006 18:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国电子商务：20家小虾米企业的商业梦想</title>
+            <link>http://tech.sina.com.cn/i/2006-01-02/1107809247.shtml</link>
+            <description/>
+            <pubDate>Mon, 02 Jan 2006 11:07:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT全球化幻象与危机 中国信息产业避免浮躁</title>
+            <link>http://tech.sina.com.cn/it/2005-12-31/1200808678.shtml</link>
+            <description/>
+            <pubDate>Sat, 31 Dec 2005 12:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>消息称信产部3G方案未定 发牌前仍可能重组</title>
+            <link>http://tech.sina.com.cn/t/2005-12-31/0713808024.shtml</link>
+            <description/>
+            <pubDate>Sat, 31 Dec 2005 07:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G牌照发放脚步渐近 三大运营商提速布局3G</title>
+            <link>http://tech.sina.com.cn/t/2005-12-27/0706803078.shtml</link>
+            <description/>
+            <pubDate>Tue, 27 Dec 2005 07:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>戴尔仍处于上升区间 阿梅里奥任务绝不轻松</title>
+            <link>http://tech.sina.com.cn/it/2005-12-25/1709801847.shtml</link>
+            <description/>
+            <pubDate>Sun, 25 Dec 2005 17:09:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

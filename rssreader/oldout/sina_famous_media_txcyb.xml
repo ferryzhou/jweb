@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>通信产业报</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>新兴技术带来挑战 3GLTE长期演进疾速突进</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/1051875326.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 10:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>技术演化激进革新3.9G：系统框架初露端倪</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/1047875320.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 10:47:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>印度电话用户达到1.355亿 2008年欲翻番</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/1046875314.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 10:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>AT&amp;T收购南方贝尔美国电信业是否回归垄断</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/1002875240.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 10:02:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>包月制已显历史局限 多样化计费方体现公平</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/0958875233.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 09:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>专家破解宽带P2P经营困局 引入带宽消耗分级</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/0913875114.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 09:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>陈晓林：TD测试三地选择富有深意</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/1331871810.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:31:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电信央企脱胎换骨 聚焦电信央企公司化治理</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/0927871486.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 09:27:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电信央企成绩单表现积极 考核促进差别化治理</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/0921871479.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 09:21:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国电信号码百事通试水云南模式</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/0918871466.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 09:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>北京网通IPTV落单 中兴和上海贝尔成为赢家</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/0858871404.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 08:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网络电话四地试点4月出结论 运营商争取过渡期</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/0854871399.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 08:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>王建宙提中国3G五大重点 08年3G可国际漫游</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/0846871380.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 08:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>创维手机欲后发制人</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1756869536.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:56:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>经受火与冰的考验 品牌拯救手机市场灵魂</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1753869534.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>企业VoIP不走寻常路</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1752869533.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:52:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>王涛：VoIP无线化高开低走</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1750869529.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>诺基亚借势服务驱动领先3G市场</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1748869527.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:48:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>评论：WiMAX+VoIP难演完美风暴</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1747869524.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:47:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>服务外包的“终南捷径”</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1745869523.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:45:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电信专业服务：陷入中国式围城</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1744869522.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>徐超：堵疏结合为上策</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1743869521.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>徐超：综合治理织就绿色大网</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1742869519.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>SP拓展：不靠违规靠创新</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1741869518.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>广东移动副总经理高志兴：7项承诺带动服务提升</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1729869506.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>深度：上海通信业在落实服务中保驾诚信</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1728869505.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:28:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>张九陆：换位思考有问必答</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1724869495.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:24:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>顾文：以客户满意为宗旨</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1711869462.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 17:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>李传涛：将理念落到实处</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1656869447.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 16:56:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>顾莹：实现企业利益与用户权益一起壮大</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1654869445.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 16:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>张九陆：建一张负责任的梦网</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1652869444.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 16:52:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>谦婷：温故3-15主题与电信监管动作</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1649869442.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 16:49:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>信产部令运营企业加强电信服务减少申诉率</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1645869439.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 16:45:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>SP监管面临三道深层次难题 专家建议仿欧美</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1403869264.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 14:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>分析：海外政府电信消费权益的利与弊</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1333869235.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 13:33:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国消费者协会副秘书长武高汉：承诺是实力</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1319869205.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 13:19:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>信产部苏金生：管制和引导并重营造良好环境</title>
+            <link>http://tech.sina.com.cn/t/2006-03-16/1317869204.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 13:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>浙江商会拟引入商务领航</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1304865423.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 13:04:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>河南小灵通实现机号分离</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1150865371.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>成都铁通加强护线保卫</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1139865362.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:39:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>郑予君勉励青海铁通争做服务标杆</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1138865361.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:38:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>北电融合网络拓展新市场</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1137865357.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>华为借沃达丰东风六款3G新品登陆CeBIT</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1136865351.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:36:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CeBIT：西门子推支持高清电视IPTV产品线</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1133865340.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:33:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>思科承建中国电信CN2三大洲海外节点</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1130865338.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:30:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>烽火网络服务华中师大</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1129865336.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>安捷伦入围NVIDIASoC测试</title>
+            <link>http://tech.sina.com.cn/it/2006-03-13/1126865326.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:26:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TI提升3G手机性能</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1125865323.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>英特尔发布下一代企业平台</title>
+            <link>http://tech.sina.com.cn/it/2006-03-13/1106865284.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>上海贝尔阿尔卡特获2005年度上海市质量管理奖</title>
+            <link>http://tech.sina.com.cn/t/2006-03-13/1105865282.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 11:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

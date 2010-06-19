@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>Yahoo</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>雅虎+搜索</keyword>
+   </url>
+   <filter type="class">com.iil.web.rssgen.filter.iask.yahoo</filter>
+   <outfile>iask_yahoo.xml</outfile>
+</rssgenconfig>

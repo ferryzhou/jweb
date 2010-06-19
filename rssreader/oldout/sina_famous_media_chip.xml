@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CHIP《新电脑》</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>黎明中的64位 Win XP64位与32位性能对比(5)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-17/1417844514.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Feb 2006 14:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 Win XP64位与32位性能对比(4)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-17/1417844512.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Feb 2006 14:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 Win XP64位与32位性能对比(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-17/1417844511.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Feb 2006 14:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 Win XP64位与32位性能对比(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-17/1417844510.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Feb 2006 14:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 Win XP64位与32位性能对比</title>
+            <link>http://tech.sina.com.cn/s/2006-02-17/1417844508.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Feb 2006 14:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP《新电脑》：Web2.0--互联网的下一波？</title>
+            <link>http://tech.sina.com.cn/i/2005-11-22/0733771538.shtml</link>
+            <description/>
+            <pubDate>Tue, 22 Nov 2005 07:33:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP封面故事：如何打造价低质优的家庭影院(3)</title>
+            <link>http://tech.sina.com.cn/digi/2005-10-27/1557750073.shtml</link>
+            <description/>
+            <pubDate>Thu, 27 Oct 2005 15:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP封面故事：如何打造价低质优的家庭影院(2)</title>
+            <link>http://tech.sina.com.cn/digi/2005-10-27/1557750072.shtml</link>
+            <description/>
+            <pubDate>Thu, 27 Oct 2005 15:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP封面故事：如何打造价低质优的家庭影院</title>
+            <link>http://tech.sina.com.cn/digi/2005-10-27/1557750071.shtml</link>
+            <description/>
+            <pubDate>Thu, 27 Oct 2005 15:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP新电脑：互联网并购热潮仍将持续</title>
+            <link>http://tech.sina.com.cn/i/2005-10-27/1534750039.shtml</link>
+            <description/>
+            <pubDate>Thu, 27 Oct 2005 15:34:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP电脑：笔记本电脑调查</title>
+            <link>http://tech.sina.com.cn/n/2005-09-15/1721721592.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:21:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>硬盘技术发展中概览 更大更快更安全是方向</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1713721590.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Video Tooning：神奇的风格转换器</title>
+            <link>http://tech.sina.com.cn/s/2005-09-15/1708721580.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:08:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 WIN XP64位与32位性能对比(6)</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1706721609.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 WIN XP64位与32位性能对比(5)</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1706721608.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 WIN XP64位与32位性能对比(4)</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1706721607.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 WIN XP64位与32位性能对比(3)</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1706721606.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 WIN XP64位与32位性能对比(2)</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1706721605.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黎明中的64位 WIN XP64位与32位性能对比</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1706721579.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>多功能一体机市场调查报告</title>
+            <link>http://tech.sina.com.cn/h/it/2005-09-15/1700721565.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 17:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>明天的VoIP 改变的远不止是使用习惯</title>
+            <link>http://tech.sina.com.cn/t/2005-09-15/1657721563.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 16:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>争论：游戏PC 选择双核CPU还是双显示卡</title>
+            <link>http://tech.sina.com.cn/h/2005-09-15/1653721554.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 16:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP新电脑：最新芯片技术与产品综述</title>
+            <link>http://tech.sina.com.cn/h/it/2005-09-15/1650721549.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>液晶销量逐个数 平板电视市场调查报告</title>
+            <link>http://tech.sina.com.cn/digi/2005-08-15/1753693747.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>从相关知识入手 看未来平板电视何去何从 (2)</title>
+            <link>http://tech.sina.com.cn/digi/2005-08-15/1746693738.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>从相关知识入手 看未来平板电视何去何从</title>
+            <link>http://tech.sina.com.cn/digi/2005-08-15/1746693737.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>科技让手机无所不能 千变万化的未来手机(2)</title>
+            <link>http://tech.sina.com.cn/roll/2005-08-15/1740693712.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:40:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>科技让手机无所不能 千变万化的未来手机</title>
+            <link>http://tech.sina.com.cn/other/2005-08-15/1740693711.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:40:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>争论：我们是否真的需要多核心显示解决方案</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1736693702.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:36:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>游戏、音乐、智能三大趋势 手机现在和未来(2)</title>
+            <link>http://tech.sina.com.cn/mobile/n/2005-08-15/1732693693.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:32:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>游戏、音乐、智能三大趋势 手机现在和未来</title>
+            <link>http://tech.sina.com.cn/mobile/n/2005-08-15/1732693692.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:32:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(10)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693671.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(9)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693670.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(8)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693669.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(7)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693668.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(6)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693667.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(5)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693666.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(4)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693665.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(3)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693664.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学(2)</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693663.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>本本选购机巧谈 买台笔记本电脑去上学</title>
+            <link>http://tech.sina.com.cn/n/2005-08-15/1722693661.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>走进2005中国国际消费电子博览会</title>
+            <link>http://tech.sina.com.cn/it/2005-08-15/1721693660.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:21:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP评测中心：12款移动硬盘类产品专题测试(3)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1709693648.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:09:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP评测中心：12款移动硬盘类产品专题测试(2)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1709693647.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:09:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>CHIP评测中心：12款移动硬盘类产品专题测试</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1709693646.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:09:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>总有一款适合你 26款LGA775接口P4主板评测(15)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1659693792.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 16:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>总有一款适合你 26款LGA775接口P4主板评测(14)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1659693791.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 16:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>总有一款适合你 26款LGA775接口P4主板评测(13)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1659693790.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 16:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>总有一款适合你 26款LGA775接口P4主板评测(12)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1659693789.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 16:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>总有一款适合你 26款LGA775接口P4主板评测(11)</title>
+            <link>http://tech.sina.com.cn/h/2005-08-15/1659693788.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 16:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

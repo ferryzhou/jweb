@@ -1,0 +1,20 @@
+文本分类
+把文本看成单词的集合，也就是说单词的位置已不再重要。这样，可以表示为{d1:5, d2:8, ... dm:4}，di是单词，它表示这个文档包含5个d1，8个d2等等。
+采用贝叶斯分类器。
+贝叶斯分类器的基本思想是：一个样本条件下，是哪一类的概率大，那么它就属于哪一类。也就是
+c = max(cj | P(cj|d))
+而P(cj|d) = P(cj)P(d|cj) / P(d)
+所以 c = max(cj | P(cj)P(d|cj))
+P(cj) = Nj/N     Nj为j类文档的个数，N为所有文档个数。
+log(P(d|cj)) = sum(num(di)*log(P(di|cj)))
+P(di|cj) = (Nij+1)/(M+sum(Nkj))   M为所有单词的个数。Nij为j类文档里di出现的次数。
+准确地说，P(di|cj)表示在cj的情况下，在某个位置，出现di的概率。前面的估计是合适的。
+c = max(log(Nj/N)+log(P(d|cj)))
+//参考文献
+//Kjersti Aas and Line Eikvil, Text Categorization: A Survey. June 1999.
+//Tom Mitchel, Machine Learning.
+
+Now I use an variant algorithm
+first, P(di|cj) = (Nij+1)/(Nj+1) Nij为所有出现di并且属于cj类的文档个数。Nj为cj类文档个数。
+second, remove noise words. if (Nij <= 2 || prob <= (double)10 / docNum) di is noise.
+third, feature reduction. remove the words whose entopy is under a certain threshold.

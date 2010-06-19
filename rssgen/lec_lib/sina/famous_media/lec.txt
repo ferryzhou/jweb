@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb2312"?>
+<leconfig>
+   <xsl>extraction.xsl</xsl>
+   <nextlink>
+     <keyword>下一页</keyword>
+   </nextlink>
+   <stop>
+     <size>15</size>
+   </stop>
+   <rssxsl>../../rss20.xsl</rssxsl>
+   <dateformat function_id="sina_url"></dateformat>
+</leconfig>

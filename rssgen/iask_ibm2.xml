@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>IBM</title>
+        <description>Powered by Ferry(v0.01)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>
+                http://www.myjavaserver.com/~ferryzhou/chromatic.jpg           </url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>IBM寻求新营收增长点 推基于Cell服务器</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/1003836592.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 10:03:59 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>分析:IBM重返芯片速度定律_eNet新闻中心</title>
+            <link>http://www.enet.com.cn/article/2006/0209/A20060209499146.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 07:36:20 -0700</pubDate>
+            <dc:creator>ENET硅谷动力</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>葛雅莉：IBM重返芯片速度定律</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0720836271.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 07:20:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM公司推出新款刀片服务器 采用Cell芯片</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0713836270.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 07:13:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM新推刀片服务器采用游戏机处理器Cell</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0053836183.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 00:53:27 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>匹兹堡大学医疗中心借IBM存储改进病患管理_即时...</title>
+            <link>http://news.ccidnet.com/art/1032/20060208/424455_1.html</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 16:40:36 -0700</pubDate>
+            <dc:creator>赛迪网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM成功研究出芯片制造新方法并将用于Power6</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/1107835830.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 11:07:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM开发无线芯片 传输速度可达600MB每秒</title>
+            <link>http://tech.sina.com.cn/t/2006-02-08/0948835629.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 09:48:44 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM R51e笔记本配赛扬M小降现售7199元</title>
+            <link>http://tech.sina.com.cn/n/2006-02-08/0934835586.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 09:34:09 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM人才培训:“心力交瘁”与模拟角色训练_即时新...</title>
+            <link>http://news.ccidnet.com/art/1032/20060208/423717_1.html</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 09:19:37 -0700</pubDate>
+            <dc:creator>赛迪网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title/>
+            <link/>
+            <description/>
+            <pubDate/>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM即将披露Power6细节 运行速度可达5GHz</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/0852835464.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 08:52:12 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>对抗英特尔Wi-Fi IBM再挺UWB</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/0423835192.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 04:23:13 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>对抗英特尔Wi-Fi IBM再挺UWB</title>
+            <link>http://finance.sina.com.cn/g/20060208/0345539009.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 03:45:02 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联想IBM签约美联航</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/0305835165.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 03:05:12 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联想再飚价格：多款IBM R52笔记本调价</title>
+            <link>http://tech.sina.com.cn/n/2006-02-07/1419834895.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Feb 2006 14:19:26 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>传输率1.6GB/s!IBM新短距无线技术速度惊人_即时...</title>
+            <link>http://news.ccidnet.com/art/1032/20060207/423135_1.html</link>
+            <description/>
+            <pubDate>Tue, 07 Feb 2006 11:59:42 -0700</pubDate>
+            <dc:creator>赛迪网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电视连接DVD不需用电线 IBM推无线传输芯片_即时...</title>
+            <link>http://news.ccidnet.com/art/1032/20060207/423027_1.html</link>
+            <description/>
+            <pubDate>Tue, 07 Feb 2006 10:29:33 -0700</pubDate>
+            <dc:creator>赛迪网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM携手Freescale推广Power芯片</title>
+            <link>http://tech.sina.com.cn/it/2006-02-07/0854834506.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Feb 2006 08:54:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM向俄罗斯提供技术援助 以求加速开源进程</title>
+            <link>http://tech.sina.com.cn/it/2006-02-07/0739834335.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Feb 2006 07:39:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM研制新款无线芯片 可传输高清媒体内容</title>
+            <link>http://tech.sina.com.cn/t/2006-02-07/0715834272.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Feb 2006 07:15:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

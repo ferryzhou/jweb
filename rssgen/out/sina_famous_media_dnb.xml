@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>电脑报</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>让火狐拥有三头六臂 Firefox扩展推荐(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-17/1611870569.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Mar 2006 16:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>让火狐拥有三头六臂 Firefox扩展推荐(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-17/1611870567.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Mar 2006 16:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>让火狐拥有三头六臂 Firefox扩展推荐</title>
+            <link>http://tech.sina.com.cn/s/2006-03-17/1611870566.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Mar 2006 16:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>驯服你的火狐 Firefox浏览器快速上手(4)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-15/1622868246.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>驯服你的火狐 Firefox浏览器快速上手(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-15/1622868245.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>驯服你的火狐 Firefox浏览器快速上手(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-15/1622868244.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>驯服你的火狐 Firefox浏览器快速上手</title>
+            <link>http://tech.sina.com.cn/s/2006-03-15/1622868243.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网管实战 远程管理让服务发布遭遇意外</title>
+            <link>http://tech.sina.com.cn/s/2006-03-14/1727867156.shtml</link>
+            <description/>
+            <pubDate>Tue, 14 Mar 2006 17:27:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>读编交流 常见网络问题解答与故障解决</title>
+            <link>http://tech.sina.com.cn/s/2006-03-10/1625864032.shtml</link>
+            <description/>
+            <pubDate>Fri, 10 Mar 2006 16:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>观点争鸣 网管员不应随意关闭默认共享(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-06/1501858832.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 15:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>观点争鸣 网管员不应随意关闭默认共享(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-06/1501858831.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 15:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>观点争鸣 网管员不应随意关闭默认共享</title>
+            <link>http://tech.sina.com.cn/s/2006-03-06/1501858830.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 15:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>故障实例 WinGate闯祸引发IP地址冲突</title>
+            <link>http://tech.sina.com.cn/s/2006-03-06/1441858816.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 14:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面监管 试用微软公用电脑管理工具包(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-03/1143857104.shtml</link>
+            <description/>
+            <pubDate>Fri, 03 Mar 2006 11:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面监管 试用微软公用电脑管理工具包(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-03/1143857103.shtml</link>
+            <description/>
+            <pubDate>Fri, 03 Mar 2006 11:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面监管 试用微软公用电脑管理工具包</title>
+            <link>http://tech.sina.com.cn/s/2006-03-03/1143857102.shtml</link>
+            <description/>
+            <pubDate>Fri, 03 Mar 2006 11:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>在Windows 2003系统中挖掘免费刻录软件(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-03/0805856537.shtml</link>
+            <description/>
+            <pubDate>Fri, 03 Mar 2006 08:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>在Windows 2003系统中挖掘免费刻录软件</title>
+            <link>http://tech.sina.com.cn/s/2006-03-03/0805856536.shtml</link>
+            <description/>
+            <pubDate>Fri, 03 Mar 2006 08:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面监管 试用微软公用电脑管理工具包(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-02/1151855835.shtml</link>
+            <description/>
+            <pubDate>Thu, 02 Mar 2006 11:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面监管 试用微软公用电脑管理工具包(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-03-02/1151855834.shtml</link>
+            <description/>
+            <pubDate>Thu, 02 Mar 2006 11:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面监管 试用微软公用电脑管理工具包</title>
+            <link>http://tech.sina.com.cn/s/2006-03-02/1151855833.shtml</link>
+            <description/>
+            <pubDate>Thu, 02 Mar 2006 11:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Windows操作系统任务管理器五大奇招</title>
+            <link>http://tech.sina.com.cn/s/2006-02-28/1054853429.shtml</link>
+            <description/>
+            <pubDate>Tue, 28 Feb 2006 10:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用微软LCS 2005组建企业即时交流平台(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-24/0750850272.shtml</link>
+            <description/>
+            <pubDate>Fri, 24 Feb 2006 07:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用微软LCS 2005组建企业即时交流平台(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-24/0750850271.shtml</link>
+            <description/>
+            <pubDate>Fri, 24 Feb 2006 07:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用微软LCS 2005组建企业即时交流平台</title>
+            <link>http://tech.sina.com.cn/s/2006-02-24/0750850270.shtml</link>
+            <description/>
+            <pubDate>Fri, 24 Feb 2006 07:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>办公室MM工作密技之无纸化传真全攻略(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-21/1058847104.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Feb 2006 10:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>办公室MM工作密技之无纸化传真全攻略(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-21/1058847103.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Feb 2006 10:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>办公室MM工作密技之无纸化传真全攻略</title>
+            <link>http://tech.sina.com.cn/s/2006-02-21/1058847102.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Feb 2006 10:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>影像馆变身渠道 传统冲印渠道面临挑战</title>
+            <link>http://tech.sina.com.cn/it/2006-02-20/1154845886.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Feb 2006 11:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google拒绝美司法部要求 将保障个人隐私权</title>
+            <link>http://tech.sina.com.cn/i/2006-02-20/1141845857.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Feb 2006 11:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>如何捕获无线信号 无线探索工具大扫描</title>
+            <link>http://tech.sina.com.cn/s/2006-02-16/1810843529.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Feb 2006 18:10:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用Windows Media编码器建网络电视直播站</title>
+            <link>http://tech.sina.com.cn/s/2006-02-16/1805843523.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Feb 2006 18:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>拆穿木马伪装七计 将不速之客拒之门外(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-16/1744843501.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Feb 2006 17:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>拆穿木马伪装七计 将不速之客拒之门外(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-16/1744843500.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Feb 2006 17:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>拆穿木马伪装七计 将不速之客拒之门外</title>
+            <link>http://tech.sina.com.cn/s/2006-02-16/1744843499.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Feb 2006 17:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用Movie Maker 2.0做视频编辑的简单流程</title>
+            <link>http://tech.sina.com.cn/s/2006-02-15/1029841617.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Feb 2006 10:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>炫出个性色彩 用Photoshop给头发染色</title>
+            <link>http://tech.sina.com.cn/s/2006-02-09/1441836872.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 14:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>打开浏览器就能聊Google Talk</title>
+            <link>http://tech.sina.com.cn/s/s/2006-02-09/0955836575.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 09:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>大狗小狗一起叫 Web2.0主流技术排排坐次</title>
+            <link>http://tech.sina.com.cn/s/s/2006-02-06/1317833796.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Feb 2006 13:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>是非功过任评说 了解你身边的分布式计算(6)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-05/1055832915.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 10:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>是非功过任评说 了解你身边的分布式计算(5)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-05/1055832914.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 10:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>是非功过任评说 了解你身边的分布式计算(4)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-05/1055832913.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 10:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>是非功过任评说 了解你身边的分布式计算(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-05/1055832911.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 10:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>是非功过任评说 了解你身边的分布式计算(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-02-05/1055832910.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 10:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>是非功过任评说 了解你身边的分布式计算</title>
+            <link>http://tech.sina.com.cn/s/2006-02-05/1055832909.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Feb 2006 10:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Windows系统五类常见网络设置问题解答</title>
+            <link>http://tech.sina.com.cn/s/2006-01-26/1018830255.shtml</link>
+            <description/>
+            <pubDate>Thu, 26 Jan 2006 10:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>节约成本 详解网络打印机安装的三种方法</title>
+            <link>http://tech.sina.com.cn/s/2006-01-26/1004830225.shtml</link>
+            <description/>
+            <pubDate>Thu, 26 Jan 2006 10:04:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>深入Win XP之认识神秘的引导文件NTLDR</title>
+            <link>http://tech.sina.com.cn/s/2006-01-24/1801828657.shtml</link>
+            <description/>
+            <pubDate>Tue, 24 Jan 2006 18:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>小心远方的黑手 解析远程控制带来的危险(3)</title>
+            <link>http://tech.sina.com.cn/s/2006-01-23/1622827507.shtml</link>
+            <description/>
+            <pubDate>Mon, 23 Jan 2006 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>小心远方的黑手 解析远程控制带来的危险(2)</title>
+            <link>http://tech.sina.com.cn/s/2006-01-23/1622827506.shtml</link>
+            <description/>
+            <pubDate>Mon, 23 Jan 2006 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

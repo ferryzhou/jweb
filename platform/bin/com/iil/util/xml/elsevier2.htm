@@ -1,0 +1,850 @@
+<!DOCTYPE html public '-//W3C//DTD HTML 4.0 Transitional//EN'>
+<html>
+<head>
+<title>Search Results</title>
+<script language="JavaScript1.3" src="/javascript/cookie.js" type="text/javascript"></script>
+<script language="JavaScript1.3" src="/javascript/MyArticles.js" type="text/javascript"></script>
+
+</head>
+
+<!-- Site Body Include -->
+<body onLoad="fillInCheckboxes()" bgcolor="white">
+
+
+<!-- Site Header Include -->
+<script language="javascript">
+if(document.cookie.indexOf("stamp=") !=-1 ) {
+        ;
+} else {
+    var Date = new Date();
+    document.cookie = "stamp=" + Date.getTime();
+}
+</script>
+<table border=0 cellpadding=0 cellspacing=0>
+  <tr> 
+    <td> <img src="../../images2/spacer.gif" width=350 height=1></td>
+    <td> <img src="../../images2/spacer.gif" width=54 height=1></td>
+    <td> <img src="../../images2/spacer.gif" width=56 height=1></td>
+    <td> <img src="../../images2/spacer.gif" width=99 height=1></td>
+    <td> <img src="../../images2/spacer.gif" width=66 height=1></td>
+    <td> <img src="../../images2/spacer.gif" width=48 height=1></td>
+    <td> <img src="../../images2/spacer.gif" width=47 height=1></td>
+  </tr>
+  <tr> 
+    <td rowspan=4><img border="0" src="../../images2/header_01.jpg" width="350" height="100"></td>
+    <td colspan=4 rowspan=3><img src="../../images2/header1_02.jpg" width=275 height=73></td>
+    <td colspan=2><a href="http://www.adobe.com/products/acrobat/readstep.html"><img src="../../images2/header1_adobe.jpg" border="0" width="95" height="16"></a></td>
+  </tr>
+  <tr> 
+    <td colspan=2><a href="../../home-html/copyright.shtml" onMouseOut="document.image1.src='../../images2/header1_cr.jpg'" onMouseOver="document.image1.src='../../images2/header_cron.jpg'"><img src="../../images2/header1_cr.jpg" width=95 height=18 border="0" name="image1"></a></td>
+  </tr>
+  <tr> 
+    <td colspan=2><img src="../../images2/header1_05.jpg" width=95 height=39></td>
+  </tr>
+  <tr> 
+    <td align="center"> <a href="/" onMouseOut="document.home.src='../../images2/header1_06.jpg'" onMouseOver="document.home.src='../../images2/header_on_06.jpg'"><img src="../../images2/header1_06.jpg" width=54 height=27 name="home" border="0"></a></td>
+    <td><a onMouseOut="document.browse.src='../../images2/header1_07.jpg'" onMouseOver="document.browse.src='../../images2/header_on_07.jpg'" href="../../cgi-bin/sciserv.pl?collection=journals"><img src="../../images2/header1_07.jpg" name="browse" border="0" width="56" height="27"></a></td>
+    <td><a href="../../cgi-bin/search.pl" onMouseOut="document.s_search.src='../../images2/header1_08.jpg'" onMouseOver="document.s_search.src='../../images2/header_on_08.jpg'"><img src="../../images2/header1_08.jpg" width=99 height=27 name="s_search" border="0"></a></td>
+    <td colspan=2><a href="../../cgi-bin/search.pl?template_search_form.advanced=" onMouseOut="document.e_search.src='../../images2/header1_09.jpg'" onMouseOver="document.e_search.src='../../images2/header_on_09.jpg'"><img src="../../images2/header1_09.jpg" width=114 height=27 name="e_search" border="0"></a></td>
+    <td><a onMouseOut="document.help.src='../../images2/header1_10.jpg'" onMouseOver="document.help.src='../../images2/header_on_10.jpg'" href="/help/default/helpmain.html"><img src="../../images2/header1_10.jpg" name="help" border="0" width="47" height="27"></a></td>
+  </tr>
+</table>
+
+
+
+<!-- Nav bar -->
+
+
+
+<p>
+<basefont face="arial" size="-1">
+
+<table width="600" cellspacing="0" cellpadding="0" border="0" >
+    <tr>
+        <td width="200" valign="top" align="left">
+            <font color="black" size="-1"><b>Search Results</b></font>
+        </td>
+        <td bgcolor="gray" height="2" ><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0" ></td>
+        <td valign="top" align="center">
+            <font size="-1" color="black">Search Expression</font><br>
+            <font size="-1" color="black"><i>( (Web Mining) )  </i></font>
+        </td>
+        <td bgcolor="gray" height="2" ><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0" ></td>
+        <td valign="top" align="center">
+            <font size="-1" color="black">Database(s)</font><br>
+            <font size="-1" color="black"><i>Electronic Journals</i></font>
+        </td>
+        <td bgcolor="gray" height="2" ><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0" ></td>
+        <td valign="top" align="center">
+            <font size="-1" color="black">Documents</font><br>
+            <font size="-1" color="black"><i>93</i></font><br>
+	    <font size="-1" color="black"><i>Showing 11 to 20 </i></font>
+        </td>
+    </tr>
+    <tr><td><br></td></tr>
+</table>
+
+
+
+<form name="MyArticles" action="/cgi-bin/selected_articles.pl" method="POST">
+<input type="hidden" name="command" value="">
+
+    <input type="hidden" name="oldsearch" value="( (Web Mining) )  " >      
+    <input type="hidden" name="oldsearchlink" value="fields=Any&amp;amp;Start=11&amp;amp;search_field=Web+Mining" >
+    <input type="hidden" name="oldresults" value="10" >
+    <input type="hidden" name="Max" value="10" >
+    <input type="hidden" name="Start" value="11" >
+    <input type="hidden" name="DocCount" value="93" >
+
+
+
+<!-- Search Results Table -->
+<table width="600" cellspacing="0" cellpadding="0" border="0">
+
+    <!-- Search Next/Prev Link -->
+    <tr><td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td></tr><tr><td width="600" colspan="2" align="center"><br><font face="Arial" size="2"> <A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=1&amp;search_field=Web+Mining">(previous page)</A>&nbsp;
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=1&amp;search_field=Web+Mining">1</A>
+=&nbsp;<b>2</b>&nbsp;=&nbsp;<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=21&amp;search_field=Web+Mining">3</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=31&amp;search_field=Web+Mining">4</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=41&amp;search_field=Web+Mining">5</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=51&amp;search_field=Web+Mining">6</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=61&amp;search_field=Web+Mining">7</A>
+...&nbsp;<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=91&amp;search_field=Web+Mining">10</A>
+&nbsp;<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=21&amp;search_field=Web+Mining">(next page)</A>
+ </font></td></tr><tr><td colspan="2" width="600"><br></td></tr>
+    
+    <!-- horizontal line -->
+    <tr><td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0" ></td></tr>
+
+    <!-- Relevance Feedback Icon -->
+    <tr><td width="600" colspan="2" align="left">  <IMG SRC="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0 width="25" height="20"><font face=arial color="gray" size="-2"> = Click to find similar documents</font></td></tr>
+
+    <!-- Save and View selected links -->
+    <tr>
+	<td colspan="2" width="600">
+	    <table width="600" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+		    <td width="80" valign="bottom" align="right">
+        <img src="/images/DownArrow.gif" alt="Down Arrow">&nbsp;
+		    </td>
+
+		    <td width="320" valign="middle" align="left">
+			<font face="arial" size="-2">
+	<a href="store" onClick="return submitMyArticlesForm('store','checkCookie')">Save Selected</a> |
+	<a href="search" onClick="return submitMyArticlesForm('search','checkCookie')">View Selected</a> |
+	<a href="clear" onClick="return resetMyArticlesForm('cc')">Clear All</a>
+			</font>
+		    </td>
+
+<!-- Save Search and Search History links -->
+		    <td width="200" valign="middle" align="right">
+			<font face="arial" size="-2">
+
+
+			</font>
+		    </td>
+		</tr>
+	    </table>
+	</td>
+    </tr>
+            
+    <!-- horizontal line -->
+    <tr><td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0" ></td></tr>
+
+    <!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">62</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="11#62#journals#01679236#v35i0002#245_wpcuasmounp" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=01679236/v35i0002/245_wpcuasmounp"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b><b>Web</b> page clustering using a self-organizing map of user navigation patterns</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01679236">Decision Support Systems</a></i></font>
+
+
+
+            <font size="-1">Volume: 35, Issue: 2, May, 2003, 
+                            pp. 245-256
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Smith%2C%20Kate%20A.&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Smith, Kate A.</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Ng%2C%20Alan&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Ng, Alan</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01679236&amp;issue=v35i0002&amp;article=245_wpcuasmounp&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01679236&amp;issue=v35i0002&amp;article=245_wpcuasmounp&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(650&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">57</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="12#57#journals#01679236#v35i0002#195_csewowma" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=01679236/v35i0002/195_csewowma"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>Complementing search engines with online <b>web</b> <b>mining</b> agents</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01679236">Decision Support Systems</a></i></font>
+
+
+
+            <font size="-1">Volume: 35, Issue: 2, May, 2003, 
+                            pp. 195-212
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Menczer%2C%20Filippo&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Menczer, Filippo</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01679236&amp;issue=v35i0002&amp;article=195_csewowma&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01679236&amp;issue=v35i0002&amp;article=195_csewowma&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(588&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">56</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="13#56#journals#01697552#v29i8-13#1205_pmsiotw" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=01697552/v29i8-13/1205_pmsiotw"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>ParaSite: <b>mining</b> structural information on the <b>Web</b></b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01697552">Computer Networks and ISDN Systems</a></i></font>
+
+
+
+            <font size="-1">Volume: 29, Issue: 8-13, September, 1997, 
+                            pp. 1205-1215
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Spertus%2C%20Ellen&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Spertus, Ellen</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01697552&amp;issue=v29i8-13&amp;article=1205_pmsiotw&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=01697552&amp;issue=v29i8-13&amp;article=1205_pmsiotw&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(904&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">53</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="14#53#journals#13891286#v31i11-16#1245_tawscfacs" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=13891286/v31i11-16/1245_tawscfacs"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>Towards adaptive <b>Web</b> sites: conceptual framework and case study</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13891286">Computer Networks</a></i></font>
+
+
+
+            <font size="-1">Volume: 31, Issue: 11-16, May 17, 1999, 
+                            pp. 1245-1258
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Perkowitz%2C%20Mike&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Perkowitz, Mike</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Etzioni%2C%20Oren&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Etzioni, Oren</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13891286&amp;issue=v31i11-16&amp;article=1245_tawscfacs&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13891286&amp;issue=v31i11-16&amp;article=1245_tawscfacs&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(155&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">52</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="15#52#journals#1045926x#v13i0001#3_wasfqsdotw" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=1045926x/v13i0001/3_wasfqsdotw"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>WebDB: A System for Querying Semi-structured Data on the <b>Web</b></b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=1045926x">Journal of Visual Languages &amp; Computing</a></i></font>
+
+
+
+            <font size="-1">Volume: 13, Issue: 1, February, 2002, 
+                            pp. 3-33
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=LI%2C%20WEN-SYAN&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">LI, WEN-SYAN</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=SHIM%2C%20JUNHO&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">SHIM, JUNHO</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=CANDAN%2C%20K.%20SELCUK&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">CANDAN, K. SEL&Ccedil;UK</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=1045926x&amp;issue=v13i0001&amp;article=3_wasfqsdotw&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=1045926x&amp;issue=v13i0001&amp;article=3_wasfqsdotw&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(821&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">50</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="16#50#journals#13890417#v04i0004#355_snawm" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=13890417/v04i0004/355_snawm"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>Social networks and <b>web</b> minorities</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13890417">Cognitive Systems Research</a></i></font>
+
+
+
+            <font size="-1">Volume: 4, Issue: 4, December, 2003, 
+                            pp. 355-364
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Gori%2C%20Marco&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Gori, Marco</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Numerico%2C%20Teresa&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Numerico, Teresa</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13890417&amp;issue=v04i0004&amp;article=355_snawm&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13890417&amp;issue=v04i0004&amp;article=355_snawm&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(655&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">50</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="17#50#journals#09574174#v26i0002#233_aowumattcrie" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=09574174/v26i0002/233_aowumattcrie"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>Application of <b>Web</b> usage <b>mining</b> and product taxonomy to collaborative recommendations in e-commerce</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09574174">Expert Systems with Applications</a></i></font>
+
+
+
+            <font size="-1">Volume: 26, Issue: 2, February, 2004, 
+                            pp. 233-246
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Cho%2C%20Yoon%20Ho&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Cho, Yoon Ho</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Kim%2C%20Jae%20Kyeong&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Kim, Jae Kyeong</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09574174&amp;issue=v26i0002&amp;article=233_aowumattcrie&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09574174&amp;issue=v26i0002&amp;article=233_aowumattcrie&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(667&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">48</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="18#48#journals#09505849#v46i0001#55_edmfwnp" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=09505849/v46i0001/55_edmfwnp"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>Efficient data <b>mining</b> for <b>web</b> navigation patterns</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09505849">Information and Software Technology</a></i></font>
+
+
+
+            <font size="-1">Volume: 46, Issue: 1, January 1, 2004, 
+                            pp. 55-63
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Xing%2C%20Dongshan&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Xing, Dongshan</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Shen%2C%20Junyi&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Shen, Junyi</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09505849&amp;issue=v46i0001&amp;article=55_edmfwnp&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09505849&amp;issue=v46i0001&amp;article=55_edmfwnp&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(259&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">48</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="19#48#journals#13891286#v39i0003#303_anwumafse" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=13891286/v39i0003/303_anwumafse"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>A novel <b>Web</b> usage <b>mining</b> approach for search engines</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13891286">Computer Networks</a></i></font>
+
+
+
+            <font size="-1">Volume: 39, Issue: 3, June 21, 2002, 
+                            pp. 303-310
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Zhang%2C%20Dell&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Zhang, Dell</A>; <A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Dong%2C%20Yisheng&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Dong, Yisheng</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13891286&amp;issue=v39i0003&amp;article=303_anwumafse&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=13891286&amp;issue=v39i0003&amp;article=303_anwumafse&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(296&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+<!-- search result, template => search_result.noabstract -->
+
+    <tr>
+        <td rowspan="5" align="center" width="80" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="80">
+                <tr>
+                    <td width="80" align="right">
+                        <font face="arial" size="-1" color="#0">47</font>&nbsp;|
+			<input type="checkbox" name="ArticleKey" value="20#47#journals#09291393#v22i0002#113_snfoamdtsafg" onClick="isCheckboxChecked(this)">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80" align="left">
+              <a href="/cgi-bin/search.pl/GetSearchResults?RfDatabase=journals&amp;RfDocumentID=09291393/v22i0002/113_snfoamdtsafg"><img src="/images/searchicon.gif" alt="Relevance Feedback Icon" border=0></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="520"  bgcolor="#F0F0F0" valign="top">
+            <font face="arial" size="-1" color="Black">
+            <b>Soil nematode fauna of afforested mine sites: genera distribution, trophic structure and functional guilds</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+         <font size="-1"><i><a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09291393">Applied Soil Ecology</a></i></font>
+
+
+
+            <font size="-1">Volume: 22, Issue: 2, February, 2003, 
+                            pp. 113-126
+            </font>
+    </tr>
+    <tr>
+        <td width="520" valign="top">
+            <font size="-1"><A HREF="/cgi-bin/search.pl/GetSearchResults?Any=&amp;Title=&amp;Abstract=&amp;Author=Hohberg%2C%20Karin&amp;JournalTitle=&amp;Past=No+Restriction...&amp;Since=&amp;Start=1&amp;Max=10">Hohberg, Karin</A></font>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520">
+             &nbsp;
+        </td>
+    </tr>
+
+    <tr>
+        <td width="520" valign="top">
+            <font face="arial" size="-1">
+            <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09291393&amp;issue=v22i0002&amp;article=113_snfoamdtsafg&amp;search_term=%28%20%28Web%20Mining%29%20%29%20">Bibliographic Page</a> 
+
+
+	     | <a href="/cgi-bin/sciserv.pl?collection=journals&amp;journal=09291393&amp;issue=v22i0002&amp;article=113_snfoamdtsafg&amp;form=pdf&amp;file=file.pdf">Article&nbsp;Full&nbsp;Text&nbsp;PDF&nbsp;(257&nbsp;KB)</a>
+
+
+
+            </font>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0"></td>
+    </tr>
+ 
+
+    <!-- Search Next/Prev Link -->
+    <tr><td width="600" colspan="2" align="center"><br><font face="Arial" size="2"> <A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=1&amp;search_field=Web+Mining">(previous page)</A>&nbsp;
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=1&amp;search_field=Web+Mining">1</A>
+=&nbsp;<b>2</b>&nbsp;=&nbsp;<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=21&amp;search_field=Web+Mining">3</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=31&amp;search_field=Web+Mining">4</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=41&amp;search_field=Web+Mining">5</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=51&amp;search_field=Web+Mining">6</A>
+<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=61&amp;search_field=Web+Mining">7</A>
+...&nbsp;<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=91&amp;search_field=Web+Mining">10</A>
+&nbsp;<A HREF="/cgi-bin/search.pl?GetSearchResults=Results&amp;fields=Any&amp;Start=21&amp;search_field=Web+Mining">(next page)</A>
+ </font></td></tr><tr><td colspan="2" width="600"><br></td></tr><tr><td width="600" colspan="2" bgcolor="#808080" height="1"><img alt="" border="0" height="1" hspace="0" src="/images/shim.gif" width="1" vspace="0" ></td></tr>
+
+</table> <!-- End of Search Results Table -->
+</form>
+<p>
+<A HREF="/cgi-bin/search.pl?GetQueryReport=Report&amp;Database=journals_1990&amp;DocumentID=-5%20/sdos/sci-5.2/tmp/aaa54ayhU.rpt&amp;ItemName=document&amp;MimeType=application/x-wais-report&amp;fields=Any&amp;amp;Start=11&amp;amp;search_field=Web+Mining">
+  View search engine query report
+</A>
+
+<p>
+
+<!-- Nav Bar  -->
+
+
+
+<!-- Footer -->
+<html>
+<head>
+<title>Elsevier Science Direct Onsite</title>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<hr noshade width="740" align="left">     
+<span class="cright"></span>
+<table width="740" border="0" cellspacing="0" cellpadding="0" class="p">                            
+  <tr>                           
+    <td colspan="2">¡@</td>                          
+  </tr>                          
+  <tr>                           
+    <td width="20"></td>                          
+    <td valign="top">                           
+      <div align="right">                         
+        <p align="center"><font size="1" face="Arial">Compilation                                
+        &copy; 2000 Elsevier Science Singapore Pte Ltd.                               
+        All rights reserved. ScienceDirect &reg; is an Elsevier Science B.V. registered                                
+        trademark.</font></div>                               
+    </td>                               
+  </tr>                               
+</table>                               
+</body>                               
+</html>
+</body>
+</html>
+
+<!-- Template used to create this page: /sdos/sci-5.2/templates/default/search_results.default -->

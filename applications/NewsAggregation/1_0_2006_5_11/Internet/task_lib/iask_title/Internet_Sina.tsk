@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>互联网</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern2.txt</patternfile>
+     <keyword>互联网</keyword>
+     <keyword2>新浪</keyword2>
+   </url>
+   <filter type="class">com.iil.web.rssgen.filter.iask.sina_tech</filter>
+   <outfile>iask_internet_sina.xml</outfile>
+</rssgenconfig>

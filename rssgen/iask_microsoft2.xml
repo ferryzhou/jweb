@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Microsoft</title>
+        <description>Powered by Ferry(v0.01)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>
+                http://www.myjavaserver.com/~ferryzhou/chromatic.jpg           </url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>传Vista12月1日面世 微软大赛泄露发布期</title>
+            <link>http://www.it.com.cn/f/news/062/9/231016.htm</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 11:03:53 -0700</pubDate>
+            <dc:creator>IT世界</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软两次延长期限遭拒 日罚百万美元几成定局</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/1034836670.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 10:34:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>欧盟将对微软执行反垄断裁定</title>
+            <link>http://news.sina.com.cn/o/2006-02-09/09518161437s.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 09:51:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Windows再曝两项漏洞 微软建议及时打补丁</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0948836571.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 09:48:37 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>王利兴：Google Pack要撼动微软桌面霸主地位</title>
+            <link>http://tech.sina.com.cn/i/2006-02-09/0940836559.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 09:40:18 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软日罚240万美元成定局 欧盟拒绝延迟罚期</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0913836491.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 09:13:32 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软大赛泄露Vista发布期 传12月1日将面世</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0855836448.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 08:55:02 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>欧盟再拒微软延期请求 日罚百万美元大限将至</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0819836384.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 08:19:42 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软恐怕难逃欧盟每日罚款</title>
+            <link>http://tech.sina.com.cn/s/s/2006-02-09/0756836315.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 07:56:11 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软Windows XP新主题--巴西海滩(图)</title>
+            <link>http://tech.sina.com.cn/s/s/2006-02-09/0747836301.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 07:47:43 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title/>
+            <link/>
+            <description/>
+            <pubDate/>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软主攻研发集团3000人招聘计划</title>
+            <link>http://tech.sina.com.cn/it/2006-02-09/0428836218.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 04:28:29 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google联手戴尔夺食微软视窗</title>
+            <link>http://tech.sina.com.cn/i/2006-02-09/0125836193.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Feb 2006 01:25:56 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google软件预安装在戴尔PC上 对微软有威胁_即时...</title>
+            <link>http://news.ccidnet.com/art/1032/20060208/424509_1.html</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 17:15:40 -0700</pubDate>
+            <dc:creator>赛迪网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软与索爱签Exchange ActiveSync许可协议</title>
+            <link>http://tech.sina.com.cn/t/2006-02-08/1637836097.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 16:37:14 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软拉响安全警报 已发现两漏洞第三个待查</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/1553836081.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 15:53:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google借力戴尔挑战微软桌面垄断优势</title>
+            <link>http://tech.sina.com.cn/i/2006-02-08/1417835924.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 14:17:08 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软提供计算机安全服务 挑战赛门铁克</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/1146835836.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 11:46:16 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软欲挺进安全市场 OneCare将于六月发售_eNet新...</title>
+            <link>http://www.enet.com.cn/article/2006/0208/A20060208498900.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 11:19:48 -0700</pubDate>
+            <dc:creator>ENET硅谷动力</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软专利败诉 Office强制升级累及全球用户</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/1116835771.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 11:16:05 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软欲挺进安全市场 OneCare将于六月发售</title>
+            <link>http://tech.sina.com.cn/it/2006-02-08/1105835793.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Feb 2006 11:05:00 -0700</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

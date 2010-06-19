@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>重磅文章</title>
+   <lecdir>sina/famous_media</lecdir>
+   <url>
+     <link>http://tech.sina.com.cn/famous_media/ZBWZ.shtml</link>
+   </url>
+   <outfile>sina_famous_media_zbwz.xml</outfile>
+</rssgenconfig>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>媒体聚焦</title>
+   <lecdir>sina/focus</lecdir>
+   <url>
+     <link>http://news.sina.com.cn/focus/index.shtml</link>
+   </url>
+   <outfile>sina_focus.xml</outfile>
+</rssgenconfig>

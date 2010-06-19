@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>计算机世界</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>上海贝尔阿尔卡特CTO徐智群：创新有多种模式</title>
+            <link>http://tech.sina.com.cn/t/2006-04-05/1733892064.shtml</link>
+            <description/>
+            <pubDate>Wed, 05 Apr 2006 17:33:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>维客冲破博客势力圈包围 成网络写作者新宠</title>
+            <link>http://tech.sina.com.cn/i/2006-03-27/1602878993.shtml</link>
+            <description/>
+            <pubDate>Mon, 27 Mar 2006 16:02:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>评论：从IDF看英特尔的变化与变数</title>
+            <link>http://tech.sina.com.cn/it/2006-03-10/0720863058.shtml</link>
+            <description/>
+            <pubDate>Fri, 10 Mar 2006 07:20:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>计算机世界：“动成长”落地</title>
+            <link>http://tech.sina.com.cn/it/2006-03-09/1007862183.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Mar 2006 10:07:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>李云杰：NEC百年老店的底蕴与失落</title>
+            <link>http://tech.sina.com.cn/it/2006-02-20/1542846185.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Feb 2006 15:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>从UT和盛大转型看如何避免机会主义失败</title>
+            <link>http://tech.sina.com.cn/it/2006-01-09/1738814978.shtml</link>
+            <description/>
+            <pubDate>Mon, 09 Jan 2006 17:38:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软推动PC到电话业务 对抗SkypeOut服务</title>
+            <link>http://tech.sina.com.cn/t/2005-12-20/1030796999.shtml</link>
+            <description/>
+            <pubDate>Tue, 20 Dec 2005 10:30:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>刘敏：WiMAX与3G界限日渐模糊</title>
+            <link>http://tech.sina.com.cn/t/2005-11-29/0955777647.shtml</link>
+            <description/>
+            <pubDate>Tue, 29 Nov 2005 09:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>春兰信息化：一本万利的投资</title>
+            <link>http://tech.sina.com.cn/it/2005-11-26/1622776121.shtml</link>
+            <description/>
+            <pubDate>Sat, 26 Nov 2005 16:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Linux：成熟收获或泡沫破裂？</title>
+            <link>http://tech.sina.com.cn/it/2005-11-23/1049773298.shtml</link>
+            <description/>
+            <pubDate>Wed, 23 Nov 2005 10:49:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>李云杰：2005年中国IT打响“无疆界之战”</title>
+            <link>http://tech.sina.com.cn/it/2005-11-21/1850771417.shtml</link>
+            <description/>
+            <pubDate>Mon, 21 Nov 2005 18:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>李云杰：2005年中国IT打响“无疆界之战”</title>
+            <link>http://tech.sina.com.cn/it/2005-11-21/1117770886.shtml</link>
+            <description/>
+            <pubDate>Mon, 21 Nov 2005 11:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>移动固话入网合同范本会使哪方受益</title>
+            <link>http://tech.sina.com.cn/t/2005-11-20/1019770225.shtml</link>
+            <description/>
+            <pubDate>Sun, 20 Nov 2005 10:19:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>林琳：手机电视三大技术之争</title>
+            <link>http://tech.sina.com.cn/t/2005-11-16/1111767251.shtml</link>
+            <description/>
+            <pubDate>Wed, 16 Nov 2005 11:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>倪洪章：英特尔产业总动员 续梦维纳斯计划</title>
+            <link>http://tech.sina.com.cn/it/2005-11-15/1053766069.shtml</link>
+            <description/>
+            <pubDate>Tue, 15 Nov 2005 10:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>禽流感芯片问世 测H5N1病毒样本具90%准确性</title>
+            <link>http://tech.sina.com.cn/it/2005-11-14/0914764741.shtml</link>
+            <description/>
+            <pubDate>Mon, 14 Nov 2005 09:14:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>低功率无线技术获重大突破 效率达WiMAX千倍</title>
+            <link>http://tech.sina.com.cn/t/2005-11-14/0912764736.shtml</link>
+            <description/>
+            <pubDate>Mon, 14 Nov 2005 09:12:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>杨霞清：IBM软件十年崛起之谜</title>
+            <link>http://tech.sina.com.cn/it/2005-11-08/1642760184.shtml</link>
+            <description/>
+            <pubDate>Tue, 08 Nov 2005 16:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>戴尔遭遇直销之痒 CEO罗林斯开始注重文化</title>
+            <link>http://tech.sina.com.cn/it/2005-11-07/1311758655.shtml</link>
+            <description/>
+            <pubDate>Mon, 07 Nov 2005 13:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G手机民间预热 牌照未发用户有三大不保险</title>
+            <link>http://tech.sina.com.cn/t/2005-11-07/1011758389.shtml</link>
+            <description/>
+            <pubDate>Mon, 07 Nov 2005 10:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>倪洪章：mp3市场恐龙角逐蚂蚁命运该是如何</title>
+            <link>http://tech.sina.com.cn/it/2005-10-31/1142752306.shtml</link>
+            <description/>
+            <pubDate>Mon, 31 Oct 2005 11:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>计算机世界李云杰：除了直销戴尔还代表什么</title>
+            <link>http://tech.sina.com.cn/it/2005-10-28/1142750865.shtml</link>
+            <description/>
+            <pubDate>Fri, 28 Oct 2005 11:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>百度mp3侵权案一审败诉 被判赔偿6.8万元</title>
+            <link>http://tech.sina.com.cn/it/2005-09-16/1511722511.shtml</link>
+            <description/>
+            <pubDate>Fri, 16 Sep 2005 15:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>李云杰：软件并购潮 国内企业哪能独善其身</title>
+            <link>http://tech.sina.com.cn/it/2005-09-15/1317721266.shtml</link>
+            <description/>
+            <pubDate>Thu, 15 Sep 2005 13:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>倪洪章：传统卖场暴利压榨 谁在谋杀DIY</title>
+            <link>http://tech.sina.com.cn/it/2005-09-05/1555712211.shtml</link>
+            <description/>
+            <pubDate>Mon, 05 Sep 2005 15:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>分享思科安全网络十字经</title>
+            <link>http://tech.sina.com.cn/roll/2005-08-26/1607704750.shtml</link>
+            <description/>
+            <pubDate>Fri, 26 Aug 2005 16:07:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>吴世雄出任ebay中国CEO 微软系帝国成形</title>
+            <link>http://tech.sina.com.cn/it/2005-08-26/1041704372.shtml</link>
+            <description/>
+            <pubDate>Fri, 26 Aug 2005 10:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用户需求驱动 思科商业市场布新局</title>
+            <link>http://tech.sina.com.cn/t/2005-08-23/1604701576.shtml</link>
+            <description/>
+            <pubDate>Tue, 23 Aug 2005 16:04:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>清华同方推工作流系统 提高企业工作效率</title>
+            <link>http://tech.sina.com.cn/it/2005-08-19/1205698461.shtml</link>
+            <description/>
+            <pubDate>Fri, 19 Aug 2005 12:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google为何选中企动力？</title>
+            <link>http://tech.sina.com.cn/i/2005-08-15/1728693687.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:28:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>评论：百度暴热下的冷思</title>
+            <link>http://tech.sina.com.cn/i/2005-08-15/1724693675.shtml</link>
+            <description/>
+            <pubDate>Mon, 15 Aug 2005 17:24:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>带着我的认证上路：五步让你成为网络专家</title>
+            <link>http://tech.sina.com.cn/s/2005-08-12/1025691569.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 Aug 2005 10:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>传思科中国总裁杜家滨离职 内部人士未否认</title>
+            <link>http://tech.sina.com.cn/t/2005-08-02/2059681208.shtml</link>
+            <description/>
+            <pubDate>Tue, 02 Aug 2005 20:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT饭碗朝不保夕 盖茨称微软若运营不善也会关张</title>
+            <link>http://tech.sina.com.cn/it/2005-08-01/1128679135.shtml</link>
+            <description/>
+            <pubDate>Mon, 01 Aug 2005 11:28:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT行业裁员风暴刮到谁(3)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-31/1437678450.shtml</link>
+            <description/>
+            <pubDate>Sun, 31 Jul 2005 14:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT行业裁员风暴刮到谁(2)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-31/1437678449.shtml</link>
+            <description/>
+            <pubDate>Sun, 31 Jul 2005 14:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT行业裁员风暴刮到谁</title>
+            <link>http://tech.sina.com.cn/it/2005-07-31/1437678448.shtml</link>
+            <description/>
+            <pubDate>Sun, 31 Jul 2005 14:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>全面体贴 告诉你家庭网络布线中的注意事项</title>
+            <link>http://tech.sina.com.cn/h/2005-07-28/1425676306.shtml</link>
+            <description/>
+            <pubDate>Thu, 28 Jul 2005 14:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>微软和开源组织OSDL同时否认双方将展开合作</title>
+            <link>http://tech.sina.com.cn/it/2005-07-15/0951663984.shtml</link>
+            <description/>
+            <pubDate>Fri, 15 Jul 2005 09:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM向大学开放开源网站 加速与开源产品兼容</title>
+            <link>http://tech.sina.com.cn/it/2005-07-15/0948663978.shtml</link>
+            <description/>
+            <pubDate>Fri, 15 Jul 2005 09:48:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>图文：夏普推双向液晶显示器 可显示2种图像</title>
+            <link>http://tech.sina.com.cn/it/2005-07-15/0937663929.shtml</link>
+            <description/>
+            <pubDate>Fri, 15 Jul 2005 09:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Gartner调查揭示病毒蠕虫是首要IT安全威胁</title>
+            <link>http://tech.sina.com.cn/it/2005-07-15/0930663915.shtml</link>
+            <description/>
+            <pubDate>Fri, 15 Jul 2005 09:30:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>王晨晖:DVD升级战 中国没戏</title>
+            <link>http://tech.sina.com.cn/it/2005-07-15/0913663863.shtml</link>
+            <description/>
+            <pubDate>Fri, 15 Jul 2005 09:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>沃达丰德国计划2007年封杀Skype等VoIP电话</title>
+            <link>http://tech.sina.com.cn/it/2005-07-14/1053663035.shtml</link>
+            <description/>
+            <pubDate>Thu, 14 Jul 2005 10:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>AMD Q2收入12.6亿美元 得益于微处理器业务</title>
+            <link>http://tech.sina.com.cn/it/2005-07-14/1031662981.shtml</link>
+            <description/>
+            <pubDate>Thu, 14 Jul 2005 10:31:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>BT下载吞噬大量网络空间 防控的七种武器</title>
+            <link>http://tech.sina.com.cn/i/2005-07-13/1531662134.shtml</link>
+            <description/>
+            <pubDate>Wed, 13 Jul 2005 15:31:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>BT网络下载全攻略：如何才能控制P2P的流量</title>
+            <link>http://tech.sina.com.cn/i/2005-07-13/1509662112.shtml</link>
+            <description/>
+            <pubDate>Wed, 13 Jul 2005 15:09:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>魏少军辞去大唐电信董事职务 曹斌洪星候任</title>
+            <link>http://tech.sina.com.cn/t/2005-07-13/1454662091.shtml</link>
+            <description/>
+            <pubDate>Wed, 13 Jul 2005 14:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Firefox被发现存在多个缺陷 威胁等级不高</title>
+            <link>http://tech.sina.com.cn/it/2005-07-13/1411662004.shtml</link>
+            <description/>
+            <pubDate>Wed, 13 Jul 2005 14:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>英特尔改善安腾2前端总线性能 为双核作准备</title>
+            <link>http://tech.sina.com.cn/it/2005-07-13/1408662000.shtml</link>
+            <description/>
+            <pubDate>Wed, 13 Jul 2005 14:08:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

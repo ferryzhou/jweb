@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>21世纪经济报道</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>21世纪经济报道</keyword>
+   </url>
+   <outfile>iask_21centuryfinance.xml</outfile>
+</rssgenconfig>

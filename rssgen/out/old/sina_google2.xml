@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Google</title>
+        <description>Power by Ferry</description>
+        <link>http://news.sina.com.cn/</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@hotmail.com</dc:creator>
+    </channel>
+</rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>计算机世界</title>
+   <lecdir>sina/famous_media</lecdir>
+   <url>
+     <link>http://tech.sina.com.cn/famous_media/CCW.shtml</link>
+   </url>
+   <outfile>sina_famous_media_ccw.xml</outfile>
+</rssgenconfig>

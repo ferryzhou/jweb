@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>商业周刊</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>商业周刊</keyword>
+   </url>
+   <outfile>iask_bussinessweek.xml</outfile>
+</rssgenconfig>

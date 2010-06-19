@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates><codetemplate context="gettercomment_context" description="Comment for getter method" name="gettercomment">/**
+ * @return Returns the ${bare_field_name}.
+ */</codetemplate><codetemplate context="settercomment_context" description="Comment for setter method" name="settercomment">/**
+ * @param ${param} The ${bare_field_name} to set.
+ */</codetemplate><codetemplate context="constructorcomment_context" description="Comment for created constructors" name="constructorcomment">/**
+ * ${tags}
+ */</codetemplate><codetemplate context="typecomment_context" description="Comment for created types" name="typecomment">/**
+ * @author ${user}
+ *
+ * ${todo} To change the template for this generated type comment go to
+ * Window - Preferences - Java - Code Style - Code Templates
+ */</codetemplate><codetemplate context="fieldcomment_context" description="Comment for fields" name="fieldcomment">/**
+ * Comment for &lt;code&gt;${field}&lt;/code&gt;
+ */</codetemplate><codetemplate context="methodcomment_context" description="Comment for non-overriding methods" name="methodcomment">/**
+ * ${tags}
+ */</codetemplate><codetemplate context="overridecomment_context" description="Comment for overriding methods" name="overridecomment">/* (non-Javadoc)
+ * ${see_to_overridden}
+ */</codetemplate><codetemplate context="newtype_context" description="Newly created files" name="newtype">/*
+ * Created on ${date}
+ *
+ * ${todo} To change the template for this generated file go to
+ * Window - Preferences - Java - Code Style - Code Templates
+ */
+${package_declaration}
+
+${typecomment}
+${type_declaration}</codetemplate><codetemplate context="catchblock_context" description="Code in new catch blocks" name="catchblock">// ${todo} Auto-generated catch block
+${exception_var}.printStackTrace();</codetemplate><codetemplate context="methodbody_context" description="Code in created method stubs" name="methodbody">// ${todo} Auto-generated method stub
+${body_statement}</codetemplate><codetemplate context="constructorbody_context" description="Code in created constructor stubs" name="constructorbody">${body_statement}
+// ${todo} Auto-generated constructor stub</codetemplate><codetemplate context="getterbody_context" description="Code in created getters" name="getterbody">return ${field};</codetemplate><codetemplate context="setterbody_context" description="Code in created setters" name="setterbody">${field} = ${param};</codetemplate></templates>

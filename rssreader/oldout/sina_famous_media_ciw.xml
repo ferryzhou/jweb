@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>中国计算机报</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>中国计算机报：中间件产业由做大走向做强</title>
+            <link>http://tech.sina.com.cn/it/2005-07-25/1751672653.shtml</link>
+            <description/>
+            <pubDate>Mon, 25 Jul 2005 17:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>重要文件 Word 2003中给文档添加打印水印</title>
+            <link>http://tech.sina.com.cn/s/2005-07-21/0910669132.shtml</link>
+            <description/>
+            <pubDate>Thu, 21 Jul 2005 09:10:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南(7)</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668718.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南(6)</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668716.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南(5)</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668714.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南(4)</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668713.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南(3)</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668712.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南(2)</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668711.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>轻薄才时尚 市面卡片式数码相机选购指南</title>
+            <link>http://tech.sina.com.cn/digi/2005-07-20/1650668710.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 16:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>保护知识产权日记：台风改变采访团行程</title>
+            <link>http://tech.sina.com.cn/it/2005-07-20/1020668027.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 10:20:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>文件快速转换 使用这些小工具简单又方便</title>
+            <link>http://tech.sina.com.cn/s/2005-07-20/0902667798.shtml</link>
+            <description/>
+            <pubDate>Wed, 20 Jul 2005 09:02:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>流程：决不按部就班</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1611666197.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 16:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>架构：推倒了再叠</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1609666196.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 16:09:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>产品：赶紧脱胎换骨</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1607666195.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 16:07:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT界上半年猛刮裁员风暴 换将其实是换思路</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1606666193.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 16:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>记者手记：破壁而出壁在何处</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1603666189.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 16:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>WAP手机网络游戏 网游的后浪</title>
+            <link>http://tech.sina.com.cn/t/2005-07-18/1517666139.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 15:17:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>评北京ADSL大断网：莫让天灾变成人祸</title>
+            <link>http://tech.sina.com.cn/t/2005-07-18/1418666011.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 14:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国计算机报：激活2005</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1413665995.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 14:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>主流家用DV导购：便宜好用才是王道</title>
+            <link>http://tech.sina.com.cn/h/2005-07-18/1222665900.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 12:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>关联应用实现普通电视当电脑用</title>
+            <link>http://tech.sina.com.cn/other/2005-07-18/1222665899.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 12:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>定位：把缝隙凿穿</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1201665834.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 12:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>体验泛泰GF500手机：想拍就拍想摄就摄</title>
+            <link>http://tech.sina.com.cn/t/2005-07-18/1201665833.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 12:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>神州数码副总裁华祉年：宁可去赚笨一些的钱</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1115665712.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:15:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IBM招聘和培训有高招 能力素质模型是核心</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1113665710.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>实达PC面临散伙 外设可能将卖给神州数码</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1111665701.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>软件专利180度大转弯 中小软件企业入雷区</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1110665699.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:10:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>传奇CEO戴尔-福勒辞职 Borland再陷入困境</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1106665690.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>戴尔默许产品分销 经销商以大客户名义下单</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1103665680.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>孙秀娟：而立之年艰难入行 坚韧成就晨旭</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1101665674.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 11:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联通高层谈不该分拆理由：3G决定两张网并存</title>
+            <link>http://tech.sina.com.cn/t/2005-07-18/1042665631.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>贺志强3C梦：从大到小、合纵连横与专利共享</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1038665625.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:38:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网通宽带网大面积断网 运营商服务是关键</title>
+            <link>http://tech.sina.com.cn/t/2005-07-18/1037665622.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>宫力：昔日Java斗士 今日微软技术部总经理</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1029665605.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>NGN升级政府办公</title>
+            <link>http://tech.sina.com.cn/t/2005-07-18/1005665535.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国计算机报：短信网址谁说了算</title>
+            <link>http://tech.sina.com.cn/i/2005-07-18/1005665534.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国计算机报：为主机加固安全</title>
+            <link>http://tech.sina.com.cn/other/2005-07-18/1005665533.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT投资紧缩期CIO如何过冬(3)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005666157.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT投资紧缩期CIO如何过冬(2)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005666156.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联想魏骏：笔记本已实现全程自主研发</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005666155.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>华硕与富士康暗战主板市场 传大肆清洗渠道</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005666154.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IT投资紧缩期CIO如何过冬</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005665532.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>集团企业收身：企业整合的策略与方法(3)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005666153.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>集团企业收身：企业整合的策略与方法(2)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/1005666151.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 10:05:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>100美元：笔记本电脑还是手机</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/0946665488.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 09:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网时代纸媒体怎么赚钱</title>
+            <link>http://tech.sina.com.cn/i/2005-07-18/0946665487.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 09:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>战略：乾坤大挪移</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/0944665484.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 09:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>赛迪顾问：信芯问世是兴奋剂还是强壮剂</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/0944665483.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 09:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国计算机报：高性能不是冷美人(3)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/0816666141.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 08:16:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国计算机报：高性能不是冷美人(2)</title>
+            <link>http://tech.sina.com.cn/it/2005-07-18/0816666140.shtml</link>
+            <description/>
+            <pubDate>Mon, 18 Jul 2005 08:16:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

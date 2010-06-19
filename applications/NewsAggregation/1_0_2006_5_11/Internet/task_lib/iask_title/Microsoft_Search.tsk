@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>Microsoft Search</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>微软+搜索</keyword>
+   </url>
+   <outfile>iask_microsoft_search.xml</outfile>
+</rssgenconfig>

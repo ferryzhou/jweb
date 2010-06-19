@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="gb2312"?>
+<leconfig>
+   <xsl>extraction.xsl</xsl>
+   <rssxsl>../../rss20.xsl</rssxsl>
+   <dateformat function_id="sina_url"></dateformat>
+</leconfig>

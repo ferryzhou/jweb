@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>Web2.0</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>Web2.0</keyword>
+   </url>
+   <outfile>iask_Web20.xml</outfile>
+</rssgenconfig>

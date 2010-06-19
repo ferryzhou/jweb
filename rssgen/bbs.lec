@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<leconfig>
+   <xsl>bbs.xsl</xsl>
+   <filter>
+     <field>author</field>
+     <keywords>9710.txt</keywords>
+   </filter>
+   <nextlink>
+     <keyword>下一页</keyword>
+   </nextlink>
+   <stop>
+     <size>10</size>
+   </stop>
+   <rssxsl>rss091.xsl</rssxsl>
+   <dateformat>MMM d HH:mm</dateformat>
+</leconfig>

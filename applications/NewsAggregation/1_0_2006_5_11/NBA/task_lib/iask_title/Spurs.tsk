@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>马刺</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>马刺</keyword>
+   </url>
+   <outfile>iask_spurs.xml</outfile>
+</rssgenconfig>

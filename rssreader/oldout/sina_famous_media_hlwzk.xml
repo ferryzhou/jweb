@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>互联网周刊</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>千橡在网络电视上赚得最多</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1524873031.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 15:24:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G前夜：访谈BDA公司张冬明女士</title>
+            <link>http://tech.sina.com.cn/t/2006-03-21/1518873028.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 15:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>魔兽世界的领导哲学</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1513873019.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 15:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>VC的下一个金矿</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1502873008.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 15:02:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>PPStream：草根阶层</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1501873006.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 15:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>光芒国际两足鼎立</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1500873004.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 15:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>PPlive：不做论文先做公司</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1459873003.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网络电视增加QQ黏度</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1458873002.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:58:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>网络电视订立新规则</title>
+            <link>http://tech.sina.com.cn/t/2006-03-21/1455873000.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>P2P：革命已经开始</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1436872957.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:36:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：P2P新媒体革命新兴公司大扫描</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1435872956.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:35:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>传统软件消失论再起</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1430872953.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:30:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>毛武：全球化记忆</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1428872951.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:28:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Do On公司设计学艺</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1425872947.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>当当智能比价失灵</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1424872946.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:24:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google借在线office再度触动微软神经</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1422872943.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Dynamics:微软的又一台印钞机</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1420872942.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:20:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>狙击手机病毒</title>
+            <link>http://tech.sina.com.cn/t/2006-03-21/1418872932.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国互联网缺乏战略成功 网络新贵面临拐点</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1403872904.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>运营商主导唱片商助力 手机音乐加速快跑</title>
+            <link>http://tech.sina.com.cn/t/2006-03-21/1359872899.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:59:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google渠道急行军 全球神秘光环照不到中国</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1355872894.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:55:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>共享软件探索新卖法</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1348872879.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:48:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>新东方搭乘在线快车 杀手级应用缺失成路障</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1346872868.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:46:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>铁通信息化锻骨</title>
+            <link>http://tech.sina.com.cn/t/2006-03-21/1341872861.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊访谈：电子支付需要专注与竞合</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1329872846.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>SAP并购速达微软瞄上用友 软件并购潮上演</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1256872821.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 12:56:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>姜奇平：信息化需要活学活用</title>
+            <link>http://tech.sina.com.cn/it/2006-03-16/1049869059.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 10:49:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>薛兆丰：欧盟对微软荒谬的制裁</title>
+            <link>http://tech.sina.com.cn/it/2006-03-16/1036869036.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 10:36:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google在线图书馆：一波三折后前方遭遇红灯</title>
+            <link>http://tech.sina.com.cn/i/2006-03-16/1026869008.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 10:26:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>营销手笔背后显真功夫 奶业竞争决战供应链</title>
+            <link>http://tech.sina.com.cn/it/2006-03-16/1018868994.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 10:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Jupiter分析师：从AOL的开放看即时通讯竞合</title>
+            <link>http://tech.sina.com.cn/i/2006-03-16/1012868981.shtml</link>
+            <description/>
+            <pubDate>Thu, 16 Mar 2006 10:12:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>播客热钱醉翁之意不在自身 牌照资源仍值钱</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1851868368.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电子杂志风起 数字发行终结纸上谈兵有待时日</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1848868366.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:48:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>移动电视挥动三板斧</title>
+            <link>http://tech.sina.com.cn/t/2006-03-15/1843868365.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>马云：我眼中的孙正义</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1839868363.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:39:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联想一反常态搞春促 PC市场疲劳引连锁反应</title>
+            <link>http://tech.sina.com.cn/it/2006-03-15/1834868358.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:34:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电盈购网通宽带留悬案 田溯宁可能为操盘手</title>
+            <link>http://tech.sina.com.cn/t/2006-03-15/1829868355.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：美国互联网专家看互联网</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1806868338.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:06:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网创新挡不住：网络不是终点</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1803868337.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：Google到底值多少钱</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1800868336.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>国际资本蜂拥入华点燃中国人创业热情</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1757868334.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>观察：互联网产业徘徊于进取与泡沫之间</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1749868329.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:49:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>联想投资：在本土与国际化之间模拟合伙人制</title>
+            <link>http://tech.sina.com.cn/it/2006-03-15/1748868328.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:48:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊杂志封面报道：繁荣还是泡沫</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1744868321.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:44:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>滚石在数字音乐链上面临资本与产业双重抉择</title>
+            <link>http://tech.sina.com.cn/t/2006-03-15/1742868319.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>收藏旧收音机不小心成为老网虫</title>
+            <link>http://tech.sina.com.cn/i/2006-03-08/1353861245.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 13:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>陈凯歌对馒头愤怒 好比产业融合中的假想敌</title>
+            <link>http://tech.sina.com.cn/it/2006-03-08/1350861241.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 13:50:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>硬盘直面闪存挑战 iPod热销有人欢喜有人愁</title>
+            <link>http://tech.sina.com.cn/it/2006-03-08/1341861212.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 13:41:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>陶俊杰：互联网疑似泡沫症</title>
+            <link>http://tech.sina.com.cn/i/2006-03-08/1333861196.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 13:33:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>姜奇平：信息化为体还是为用</title>
+            <link>http://tech.sina.com.cn/it/2006-03-07/1722860262.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 17:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

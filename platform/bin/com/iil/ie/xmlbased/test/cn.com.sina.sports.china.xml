@@ -1,0 +1,35 @@
+<oers siteid="com.sina.dir">
+    <oer id = "jiaanewslist" context="/">
+      <extractlist>
+        <locate select="/html[1]/body[1]/table[2]/tr[1]/td[3]/ul[1]">
+          <foreach select="li">
+              <applyoer oerid="news"/>
+          </foreach>
+        </locate>
+      </extractlist>
+    </oer>
+    <oer id = "newslist" context="/">
+      <extractlist>
+        <locate select="/html[1]/body[1]/table[1]/tr[1]/td[1]/ul[1]">
+          <foreach select="li">
+              <applyoer oerid="news"/>
+          </foreach>
+        </locate>
+      </extractlist>
+    </oer>
+    <oer id = "jiabnewslist" context="/">
+      <extractlist>
+        <locate select="/html[1]/body[1]/table[3]/tr[1]/td[3]/ul[1]">
+          <foreach select="li">
+              <applyoer oerid="news"/>
+          </foreach>
+        </locate>
+      </extractlist>
+    </oer>
+    <oer id="news" context="li">
+        <extractstruct name="news">
+  	      <field name="title"><extractstring select="a/text()"/></field>
+  	      <field name="url"><extractstring select="a/@href"/></field>
+        </extractstruct>
+    </oer>
+</oers>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>互联网周刊</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>超级网商评选升温 互联网周刊加盟协办</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-23/2330876106.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 23:30:59 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊访谈：电子支付需要专注与竞合-电子支...</title>
+            <link>http://www.hnby.com.cn/xwzx/it/t20060321_453260.htm</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 21:15:59 +0800</pubDate>
+            <dc:creator>河南报业网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：P2P新媒体革命新兴公司大扫描</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1435872956.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 14:35:01 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>超级网商评选升温 互联网周刊加盟协办</title>
+            <link>http://www.ciw.com.cn/itnews/hotnews/2006/03/21/15989.html</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:38:12 +0800</pubDate>
+            <dc:creator>中国计算机报</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊访谈：电子支付需要专注与竞合</title>
+            <link>http://tech.sina.com.cn/i/2006-03-21/1329872846.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 13:29:22 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：Google到底值多少钱</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1800868336.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 18:00:04 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊杂志封面报道：繁荣还是泡沫</title>
+            <link>http://tech.sina.com.cn/i/2006-03-15/1744868321.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:44:14 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：中国设计缺什么</title>
+            <link>http://tech.sina.com.cn/it/2006-03-07/1652860221.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 16:52:05 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：新闻在后RSS时代</title>
+            <link>http://tech.sina.com.cn/i/2006-03-07/1644860215.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 16:44:02 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：RFID把关食品安全</title>
+            <link>http://tech.sina.com.cn/t/2006-03-07/1637860209.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 16:37:28 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title/>
+            <link/>
+            <description/>
+            <pubDate/>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：IBM扯起互联互通大旗</title>
+            <link>http://tech.sina.com.cn/i/2006-03-07/1627860190.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 16:27:46 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊杂志封面报道：拷问丁磊</title>
+            <link>http://tech.sina.com.cn/i/2006-03-06/1134858631.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 11:34:31 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊总编车勇离职 欲携合作伙伴创业</title>
+            <link>http://tech.sina.com.cn/i/2006-02-14/1008840349.shtml</link>
+            <description/>
+            <pubDate>Tue, 14 Feb 2006 10:08:54 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>《互联网周刊》编委/执行总编车勇简历</title>
+            <link>http://tech.sina.com.cn/i/2006-01-18/1051823529.shtml</link>
+            <description/>
+            <pubDate>Wed, 18 Jan 2006 10:51:10 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：殷一民的海外脚步</title>
+            <link>http://tech.sina.com.cn/t/2006-01-16/1850821740.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 18:50:27 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：王秦岱的第二次转身</title>
+            <link>http://tech.sina.com.cn/i/2006-01-16/1841821722.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 18:41:51 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：汪延的另一面</title>
+            <link>http://tech.sina.com.cn/i/2006-01-16/1825821699.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 18:25:14 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：挑战者马云</title>
+            <link>http://tech.sina.com.cn/i/2006-01-16/1818821692.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 18:18:12 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：孙宏斌不再另类</title>
+            <link>http://tech.sina.com.cn/i/2006-01-16/1814821688.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 18:14:20 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>互联网周刊：马化腾袒露雄心</title>
+            <link>http://tech.sina.com.cn/i/2006-01-16/1804821673.shtml</link>
+            <description/>
+            <pubDate>Mon, 16 Jan 2006 18:04:05 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

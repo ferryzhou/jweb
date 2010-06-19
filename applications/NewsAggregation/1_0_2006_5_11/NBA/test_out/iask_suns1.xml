@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>太阳</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>纳什透露太阳取胜必杀计 快船第三战仍主打内线</title>
+            <link>http://sports.northeast.cn/system/2006/05/12/050389261.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 14:50:13 +0800</pubDate>
+            <dc:creator>东北网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>太阳主帅否认小个阵容是死穴 邓利维称快船有压力</title>
+            <link>http://sports.sina.com.cn/k/2006-05-12/14492208497.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 14:49:57 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>姚明队友霍华德竟是&quot;扒手&quot; 偷窃太阳镜被擒</title>
+            <link>http://sports.sina.com.cn/s/2006-05-12/1443855205s.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 14:43:41 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>芳菲小猪：马刺纸老虎暴露无遗 西部冠军小牛太阳...</title>
+            <link>http://sports.sina.com.cn/bbs/2006/0512/14417924.html</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 14:42:07 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>纳什透露太阳取胜必杀计 快船第三战仍主打内线</title>
+            <link>http://sports.sohu.com/20060512/n243212137.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 14:38:24 +0800</pubDate>
+            <dc:creator>搜狐</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>快船三人组合力砍73分 太阳主场早早落后被逼平(...</title>
+            <link>http://sports.zgjrw.com/News/2006511/Sports/404302788700.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 14:20:17 +0800</pubDate>
+            <dc:creator>中国金融网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>快船篮板砸碎太阳 122:97大胜将总比分扳平</title>
+            <link>http://sports.ynet.com/view.jsp?oid=8897635</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 13:53:34 +0800</pubDate>
+            <dc:creator>北京青年报</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>太阳期待扭转篮板劣势 快船将帅齐夸贝尔防守</title>
+            <link>http://sports.163.com/06/0512/13/2GU4F9SC00051CA1.html</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 13:13:06 +0800</pubDate>
+            <dc:creator>网易</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

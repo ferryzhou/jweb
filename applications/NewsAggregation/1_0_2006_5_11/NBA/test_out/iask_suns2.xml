@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>太阳</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>华丽眩目进攻难掩羸弱内线 太阳软肋成攻击对象</title>
+            <link>http://sports.qianlong.com/4713/2006/05/12/2460@3167764.htm</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 11:25:34 +0800</pubDate>
+            <dc:creator>千龙新闻</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>三无太阳焉能不落?小个阵容令防守体系彻底崩塌</title>
+            <link>http://sports.qianlong.com/4713/2006/05/12/2460@3167723.htm</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 11:11:24 +0800</pubDate>
+            <dc:creator>千龙新闻</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>太阳湖人战7场商人受益 凤凰城餐厅爆满T恤大卖</title>
+            <link>http://sports.qianlong.com/4713/2006/05/12/2460@3167706.htm</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 11:11:24 +0800</pubDate>
+            <dc:creator>千龙新闻</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>主场意外惨败前景难料 历史迹象表明太阳势危急</title>
+            <link>http://sports.qianlong.com/4713/2006/05/12/2460@3167654.htm</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 11:00:53 +0800</pubDate>
+            <dc:creator>千龙新闻</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>热火破网快船胜太阳</title>
+            <link>http://sports.sina.com.cn/s/2006-05-12/1030855011s.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 10:30:16 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>快船撞沉太阳、热火火烧网队 总比分均为1：1 | ...</title>
+            <link>http://www.longhoo.net/gb/longhoo/news2004/sports/userobject1ai498099.html</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 10:25:37 +0800</pubDate>
+            <dc:creator>龙虎网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>快船射落太阳 热队大胜网队</title>
+            <link>http://sports.sina.com.cn/s/2006-05-12/0957854962s.shtml</link>
+            <description/>
+            <pubDate>Fri, 12 May 2006 09:57:29 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

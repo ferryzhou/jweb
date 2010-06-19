@@ -1,0 +1,1 @@
+http://iask.com/n?k=$1&t=title

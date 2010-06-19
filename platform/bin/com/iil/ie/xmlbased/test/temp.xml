@@ -1,0 +1,691 @@
+<html>
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org">
+<meta http-equiv="Content-Type" content=
+"text/html; charset=gb2312">
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" type="text/css" href='/bbs.css'>
+<style type="text/css">
+A {color: #000000; font-size:12px}
+</style>
+
+<title></title>
+</head>
+<body background="/image/back.gif" bgproperties="fixed">
+<center>
+<script type="text/javascript">
+        function openchat() {       url='bbschat';      chatWidth=screen.availWidth;        chatHeight=screen.availHeight;      winPara='toolbar=no,location=no,status=no,menubar=no,scrollbars=auto,resizable=yes,left=0,top=0,'+'width='+(chatWidth-10)+',height='+(chatHeight-27);       window.open(url,'_blank',winPara);      }       
+</script>
+
+ 
+
+<div style='color: #505050;'><nobr><img src="/image/x.gif"> <a
+style="text-decoration: underline;" href="http://www.nju.edu.cn/"
+target="_blank">南京大学</a> | <a style="text-decoration: underline;"
+href="http://lilytech.nju.edu.cn/" target="_blank">百合科技</a> | <a
+style='text-decoration: underline;' href='http://lily.nju.edu.cn/'
+target="_blank">百 合 网</a> | <a style="text-decoration: underline;"
+href="http://our.nju.edu.cn/bbs/" target="_blank">百合II站</a> | <a
+style="text-decoration: underline;" href="http://info.nju.edu.cn/"
+target="_blank">信息平台</a> | <a style="text-decoration: underline;"
+onclick="alert('您还没有登录，请先登录。')" href="#"><font color=
+'#ff0000'><b>欧飞数卡</b></font></a> | <a style=
+"text-decoration: underline;" href="http://lily.nju.edu.cn/myshop/"
+target="_blank"><font color='#ff0000'><b>汇策商城</b></font></a> | <a
+style="text-decoration: underline;" href="http://our.nju.edu.cn/ "
+target="_blank">工 作 室</a> | <a style="text-decoration: underline;"
+href=
+"javascript:external.AddFavorite('http://bbs.nju.edu.cn/','南京大学小百合BBS')">
+加入收藏夹</a> | <a style="text-decoration: underline; cursor:hand"
+onclick=
+"this.style.behavior='url(#default#homepage)';this.setHomePage('http://bbs.nju.edu.cn/')">
+设为首页</a> <img src="/image/x.gif"></nobr></div>
+
+<table>
+<tr>
+<td valign="top">
+<table width='100%' style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr bgcolor="404040" style=
+'color:f0f0f0; height:18px; font-size:12px'>
+<td colspan="2" style='font-size:12px'>&nbsp;精 彩 推 荐 文 章</td>
+</tr>
+
+<tr>
+<td><a href="http://www.ofcard.com/lily_index.asp" target=
+"_blank"><font color="#008800"><b>[公告]
+特供数字卡，限期供应</b></font></a></td>
+</tr>
+
+<tr>
+<td><a href=
+"bbscon?board=sysop&amp;file=M.1079403470.A&amp;num=11333"><font
+color="#008800"><b>[公告] 欢迎04届毕业生登陆校友网注册</b></font></a></td>
+</tr>
+</table>
+
+<table width='100%' style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=RuralChina&amp;file=M.1085487735.A&amp;top=1">天堂与地狱仅仅一墙之隔</a>
+[<a href="bbsdoc?board=RuralChina&amp;top=2">RuralChina</a>]</td>
+<td>○<a href=
+"bbstcon?board=Life&amp;file=M.1085500660.A&amp;top=1">爱在一尺之遥</a>
+[<a href="bbsdoc?board=Life&amp;top=2">Life</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=S_Journalism&amp;file=M.1085480729.A&amp;top=1">正义、是非和墨子与孔子</a>
+[<a href=
+"bbsdoc?board=S_Journalism&amp;top=2">S_Journalism</a>]</td>
+<td>○<a href=
+"bbstcon?board=M_GraduateUnion&amp;file=M.1085485500.A&amp;top=1">“支援西部教育　爱心捐书”活动倡议书</a>
+[<a href=
+"bbsdoc?board=M_GraduateUnion&amp;top=2">M_GraduateUnion</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=Emprise&amp;file=M.1085497574.A&amp;top=1">三国烽火战之三国现（整理版）</a>
+[<a href="bbsdoc?board=Emprise&amp;top=2">Emprise</a>]</td>
+<td>○<a href=
+"bbstcon?board=RuralChina&amp;file=M.1085461466.A&amp;top=1">一个学生眼中农村――苏北崛起，路在何方</a>
+[<a href="bbsdoc?board=RuralChina&amp;top=2">RuralChina</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=D_Chinese&amp;file=M.1085463091.A&amp;top=1">那一杯的风情</a>
+[<a href="bbsdoc?board=D_Chinese&amp;top=2">D_Chinese</a>]</td>
+<td>○<a href=
+"bbstcon?board=Ourselves&amp;file=M.1085458744.A&amp;top=1">[剑客作品]清月迷离</a>
+[<a href="bbsdoc?board=Ourselves&amp;top=2">Ourselves</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=Feeling&amp;file=M.1085454393.A&amp;top=1">这一次
+你一定要明白</a> [<a href=
+"bbsdoc?board=Feeling&amp;top=2">Feeling</a>]</td>
+<td>○<a href=
+"bbstcon?board=Economics&amp;file=M.1085451896.A&amp;top=1">[转载]
+原创论文：“官薪民定”：关于坚持“两观”之激励机</a> [<a href=
+"bbsdoc?board=Economics&amp;top=2">Economics</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=F_Literature&amp;file=M.1085402530.A&amp;top=1">朵拉之死</a>
+[<a href=
+"bbsdoc?board=F_Literature&amp;top=2">F_Literature</a>]</td>
+<td>○<a href=
+"bbstcon?board=Drama&amp;file=M.1085417690.A&amp;top=1">评一则新闻《马科:昆曲是开放的》</a>
+[<a href="bbsdoc?board=Drama&amp;top=2">Drama</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=Volunteer&amp;file=M.1085402667.A&amp;top=1">“奉献者风采”事迹报告会（部分图片）</a>
+[<a href="bbsdoc?board=Volunteer&amp;top=2">Volunteer</a>]</td>
+<td>○<a href=
+"bbstcon?board=Travel&amp;file=M.1085400980.A&amp;top=1">川西行摄</a>
+[<a href="bbsdoc?board=Travel&amp;top=2">Travel</a>]</td>
+</tr>
+
+<tr style='line-height:12px'>
+<td>○<a href=
+"bbstcon?board=NoteBook&amp;file=M.1085284257.A&amp;top=1">本本选购漫谈――性价比之外的东西</a>
+[<a href="bbsdoc?board=NoteBook&amp;top=2">NoteBook</a>]</td>
+<td>○ <a href=
+"bbstcon?board=D_Chinese&amp;file=M.1085399431.A&amp;top=1">“爱”与“恨”之无间――《无间道Ⅱ》观后（2）</a>
+[<a href="bbsdoc?board=D_Chinese&amp;top=2">D_Chinese</a>]</td>
+</tr>
+</table>
+
+<table width='100%'>
+<tr>
+<td align="right"><a style='color:#208020' href=
+"bbsdoc?board=LilyDigest">→百合精华←</a> <a style='color:#208020' href=
+"bbsrec2?top=3">→更多推荐文章(共146篇)←</a></td>
+</tr>
+</table>
+
+<table width='100%' style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr>
+<td colspan="6" align="right"><img src="/image/tit2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=0&amp;top=4"' src="f1.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=0&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=Chat&amp;top=8">聊天版</a></td>
+<td><a href="bbsdoc?board=sysop&amp;top=8">站长的工作室</a></td>
+<td><a href="bbsdoc?board=Board&amp;top=8">版主竞选与请..</a></td>
+<td><a href="bbsdoc?board=Appeal&amp;top=8">纪委仲裁版</a></td>
+<td><a href="bbsdoc?board=BoardManage&amp;top=8">版面开设与变..</a></td>
+<td><a href="bbsdoc?board=Advice&amp;top=8">百合共创</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=1&amp;top=4"' src="f2.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=1&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=NJUExpress&amp;top=8">南大校园生活</a></td>
+<td><a href="bbsdoc?board=D_Computer&amp;top=8">计算机系</a></td>
+<td><a href="bbsdoc?board=D_EE&amp;top=8">电子系</a></td>
+<td><a href="bbsdoc?board=S_LifeScience&amp;top=8">生命科学院</a></td>
+<td><a href="bbsdoc?board=S_Chemistry&amp;top=8">化学化工学院</a></td>
+<td><a href="bbsdoc?board=S_Environment&amp;top=8">环境学院</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=2&amp;top=4"' src="f3.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=2&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=ChangZhou&amp;top=8">锦绣常州</a></td>
+<td><a href="bbsdoc?board=HuBei&amp;top=8">荆楚大地</a></td>
+<td><a href="bbsdoc?board=DongBei&amp;top=8">白山黑水</a></td>
+<td><a href="bbsdoc?board=TaiZhou&amp;top=8">古韵泰州</a></td>
+<td><a href="bbsdoc?board=ShanDong&amp;top=8">齐鲁青未了</a></td>
+<td><a href="bbsdoc?board=YanCheng&amp;top=8">登瀛渔火</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=3&amp;top=4"' src="f4.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=3&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=Network&amp;top=8">网络世界</a></td>
+<td><a href="bbsdoc?board=Hardware&amp;top=8">硬件工作室</a></td>
+<td><a href="bbsdoc?board=Virus&amp;top=8">可恶可怕的病..</a></td>
+<td><a href="bbsdoc?board=LinuxUnix&amp;top=8">Linux和Unix</a></td>
+<td><a href="bbsdoc?board=Software&amp;top=8">软件天地</a></td>
+<td><a href="bbsdoc?board=MSWindows&amp;top=8">美丽的微软窗..</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=4&amp;top=4"' src="f5.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=4&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=Military&amp;top=8">军事科学</a></td>
+<td><a href="bbsdoc?board=History&amp;top=8">历史</a></td>
+<td><a href="bbsdoc?board=Taiwan&amp;top=8">宝岛之恋</a></td>
+<td><a href="bbsdoc?board=English&amp;top=8">英语世界</a></td>
+<td><a href="bbsdoc?board=Economics&amp;top=8">经济学</a></td>
+<td><a href="bbsdoc?board=Mathematics&amp;top=8">数学版</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=5&amp;top=4"' src="f6.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=5&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=Movies&amp;top=8">露天电影院</a></td>
+<td><a href="bbsdoc?board=PopMusic&amp;top=8">流行音乐天地</a></td>
+<td><a href="bbsdoc?board=TV&amp;top=8">电视</a></td>
+<td><a href="bbsdoc?board=ChunQiu_ZhanGuo&amp;top=8">春秋战国</a> </td>
+<td><a href="bbsdoc?board=SanGuo&amp;top=8">三国风云</a></td>
+<td><a href="bbsdoc?board=Comic&amp;top=8">动漫世界</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=6&amp;top=4"' src="f7.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=6&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=Basketball&amp;top=8">篮球</a></td>
+<td><a href="bbsdoc?board=WorldFootball&amp;top=8">世界足球</a></td>
+<td><a href="bbsdoc?board=BNGames&amp;top=8">南大战网游戏</a></td>
+<td><a href="bbsdoc?board=Skating&amp;top=8">溜冰人生</a></td>
+<td><a href="bbsdoc?board=TVGames&amp;top=8">电视游戏</a></td>
+<td><a href="bbsdoc?board=PCGames&amp;top=8">电脑游戏</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=7&amp;top=4"' src="f8.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=7&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=Pictures&amp;top=8">贴图版</a></td>
+<td><a href="bbsdoc?board=FOOD&amp;top=8">雅舍谈吃</a></td>
+<td><a href="bbsdoc?board=Joke&amp;top=8">笑话版</a></td>
+<td><a href="bbsdoc?board=Girls&amp;top=8">女生天地</a></td>
+<td><a href="bbsdoc?board=Astrology&amp;top=8">星月童话</a></td>
+<td><a href="bbsdoc?board=Fashion&amp;top=8">美丽流行风</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=8&amp;top=4"' src="f9.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=8&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=FleaMarket&amp;top=8">跳蚤市场</a></td>
+<td><a href="bbsdoc?board=JobAndWork&amp;top=8">创业与求职</a></td>
+<td><a href="bbsdoc?board=Abroad&amp;top=8">飞越重洋</a></td>
+<td><a href="bbsdoc?board=NetResources&amp;top=8">网络资源</a></td>
+<td><a href="bbsdoc?board=NJ_HOUSE&amp;top=8">房屋租赁</a></td>
+<td><a href="bbsdoc?board=NoteBook&amp;top=8">本本梦工厂</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=9&amp;top=4"' src="fa.gif"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=9&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href="bbsdoc?board=V_Suggestions&amp;top=8">校长信箱</a></td>
+<td><a href="bbsdoc?board=M_Graduate&amp;top=8">研究生院院长..</a></td>
+<td><a href="bbsdoc?board=M_Job&amp;top=8">就业创业指导..</a></td>
+<td><a href="bbsdoc?board=Bulletin&amp;top=8">校务公告</a></td>
+<td><a href="bbsdoc?board=M_Library&amp;top=8">图书馆馆长信..</a></td>
+<td><a href="bbsdoc?board=M_Academic&amp;top=8">教务处处长信..</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+
+<tr>
+<td colspan="4"><img style='cursor:hand' onclick=
+'location="bbsboa?sec=10&amp;top=4"' src="fb.bmp"></td>
+<td colspan="2" align="right"><a href=
+"bbsboa?sec=10&amp;top=7">更多版面...</a>&nbsp;</td>
+</tr>
+
+<tr bgcolor="f0f0f0">
+<td><a href=
+"bbsdoc?board=SE_Association&amp;top=8">阳光海岸（华..</a></td>
+<td><a href="bbsdoc?board=PandaClub&amp;top=8">郁郁竹林</a></td>
+<td><a href="bbsdoc?board=Overseas&amp;top=8">海外游子</a></td>
+<td><a href="bbsdoc?board=ChinaMobile&amp;top=8">中国移动</a></td>
+<td><a href="bbsdoc?board=StoneCity&amp;top=8">石头城</a></td>
+<td><a href="bbsdoc?board=SPA&amp;top=8">南大学生心理..</a></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/image/line2.gif"></td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table width='100%' style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr bgcolor="404040" style='color:white; height=17px'>
+<td colspan="2"><nobr><font style='font-size:12px'>&nbsp;今 日 推 荐 讨
+论 区</font></nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td width="50%"><a href="bbsdoc?board=ChinaMobile&amp;top=10"
+title='ChinaMobile版, 版主: dsc minicatty zhouzhejj'>○
+ChinaMobile(中国移动)</a></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td width="50%"><a href="bbsdoc?board=Wireless&amp;top=10" title=
+'Wireless版, 版主: AntiDevil'>○ Wireless(无线开发与应用 )</a></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td width="50%"><a href="bbsdoc?board=S_Medicine&amp;top=10" title=
+'S_Medicine版, 版主: gameover88 tqsrainman Athene'>○
+S_Medicine(医学院)</a></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td width="50%"><a href="bbsdoc?board=OfficeStaff&amp;top=10"
+title='OfficeStaff版, 版主: bylife '>○ OfficeStaff(上班一族)</a></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td width="50%"><a href="bbsdoc?board=NoteBook&amp;top=10" title=
+'NoteBook版, 版主: zhaoyangsun'>○ NoteBook(本本梦工厂)</a></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td width="50%"><a href="bbsdoc?board=Debate&amp;top=10" title=
+'Debate版, 版主: poposunnie '>○ Debate(辩者无敌)</a></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td width="50%"><a href="bbsdoc?board=GoToUniversity&amp;top=10"
+title='GoToUniversity版, 版主: yika1985 '>○
+GoToUniversity(高考招生信息)</a></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td width="50%"><a href="bbsdoc?board=Wisdom&amp;top=10" title=
+'Wisdom版, 版主: season cliffe'>○ Wisdom(儒释道)</a></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td width="50%"><a href="bbsdoc?board=S_LifeScience&amp;top=10"
+title='S_LifeScience版, 版主: qiyita girlinred yf1112'>○
+S_LifeScience(生命科学院)</a></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td width="50%"><a href="bbsdoc?board=Bulletin&amp;top=10" title=
+'Bulletin版, 版主: zh'>○ Bulletin(校务公告)</a></td>
+</tr>
+</table>
+
+<br>
+<table style='BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr bgcolor="404040" style='color:white; height=17px'>
+<td><nobr><font style='font-size:12px'>&nbsp;今 日 十 大 热 门 话
+题</font></nobr></td>
+</tr>
+
+<tr bgcolor="#FFFFFF">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=PopMusic&amp;top=9&amp;title=下面的歌都会唱的，就可以在K歌房和我单挑了！！！ '>
+下面的歌都会唱的，就可以在K歌房和我单挑了！！！</a> </td>
+<td></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=Astrology&amp;top=9&amp;title=你是星期几出生的?~ '>你是星期几出生的?~</a>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#FFFFFF">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=Astrology&amp;top=9&amp;title=十二星座抱怨指数 '>十二星座抱怨指数</a>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=PopMusic&amp;top=9&amp;title=十大歌曲催泪弹-令男人最感动的10首经典情歌 '>
+十大歌曲催泪弹-令男人最感动的10首经典情歌</a> </td>
+<td></td>
+</tr>
+
+<tr bgcolor="#FFFFFF">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=Basketball&amp;top=9&amp;title=喜欢艾弗森的六大理由 '>喜欢艾弗森的六大理由</a>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=D_EE&amp;top=9&amp;title=离别（原创涂鸦） '>离别（原创涂鸦）</a>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#FFFFFF">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=Billiards&amp;top=9&amp;title=南京大学斯诺克和花式撞球公开赛总决赛 '>南京大学斯诺克和花式撞球公开赛总决赛</a>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=NJ_HOUSE&amp;top=9&amp;title=re:summerwind,是我租了那套房子 '>
+re:summerwind,是我租了那套房子</a> </td>
+<td></td>
+</tr>
+
+<tr bgcolor="#FFFFFF">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=D_Computer&amp;top=9&amp;title=[转载]%20dancy请辞D_Computer版版主 '>
+[转载] dancy请辞D_Computer版版主</a> </td>
+<td></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+'bbstfind?board=Girls&amp;top=9&amp;title=刚才停电在球场看到一个MM大哭 '>刚才停电在球场看到一个MM大哭</a>
+</td>
+<td></td>
+</tr>
+</table>
+
+<br>
+<table width="100%" style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr>
+<td align="center"><a onclick="open('http://www.jsmcc.com/','','')"
+href="bbsdoc?board=ChinaMobile&amp;top=19"><img border="0" height=
+"90" src="http://bbs.nju.edu.cn/download/logo1.jpg"></a></td>
+</tr>
+</table>
+
+<br>
+<table width="100%" style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr>
+<td align="center"><a onclick=
+"open('http://www.szicc.com.cn/peixun.htm','','')" href=
+"bbsdoc?board=szicc&amp;top=19"><img border="0" height="90" src=
+"http://bbs.nju.edu.cn/download/szicc1.jpg"></a></td>
+</tr>
+</table>
+
+<br>
+<table width='100%' style=
+'BORDER: 2px solid; BORDER-COLOR: e8e8e8;'>
+<tr bgcolor="404040" style='color:white; height=17px'>
+<td colspan="2"><nobr><font style='font-size:12px'>&nbsp;今 日 热 门 讨
+论 区</font></nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Pictures&amp;top=11">Pictures(贴图版)</a></td>
+<td><nobr><font color="red">672人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Basketball&amp;top=11">Basketball(篮球)</a></td>
+<td><nobr>63人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=NJUExpress&amp;top=11">NJUExpress(南大校园生活)</a></td>
+<td><nobr><font color="red">171人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Network&amp;top=11">Network(网络世界)</a></td>
+<td><nobr><font color="red">109人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=FleaMarket&amp;top=11">FleaMarket(跳蚤市场)</a></td>
+<td><nobr><font color="red">154人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=WorldFootball&amp;top=11">WorldFootball(世界足球)</a></td>
+<td><nobr>78人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Military&amp;top=11">Military(军事科学)</a></td>
+<td><nobr><font color="red">190人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=V_Suggestions&amp;top=11">V_Suggestions(校长信箱)</a></td>
+<td><nobr>82人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=JobAndWork&amp;top=11">JobAndWork(创业与求职)</a></td>
+<td><nobr><font color="red">119人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=FOOD&amp;top=11">FOOD(雅舍谈吃)</a></td>
+<td><nobr>57人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Joke&amp;top=11">Joke(笑话版)</a></td>
+<td><nobr><font color="red">188人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Girls&amp;top=11">Girls(女生天地)</a></td>
+<td><nobr>96人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Hardware&amp;top=11">Hardware(硬件工作室)</a></td>
+<td><nobr>38人</nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Astrology&amp;top=11">Astrology(星月童话)</a></td>
+<td><nobr><font color="red">99人</font></nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=D_Computer&amp;top=11">D_Computer(计算机系)</a></td>
+<td><nobr>85人</nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Movies&amp;top=11">Movies(露天电影院)</a></td>
+<td><nobr>68人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=BNGames&amp;top=11">BNGames(南大战网游戏)</a></td>
+<td><nobr>51人</nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Abroad&amp;top=11">Abroad(飞越重洋)</a></td>
+<td><nobr>60人</nobr></td>
+</tr>
+
+<tr bgcolor="#f0f0f0">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Fashion&amp;top=11">Fashion(美丽流行风)</a></td>
+<td><nobr>37人</nobr></td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td><img src="/image/x.gif"> <a href=
+"bbsdoc?board=Skating&amp;top=11">Skating(溜冰人生)</a></td>
+<td><nobr>23人</nobr></td>
+</tr>
+</table>
+
+<br>
+</td>
+</tr>
+</table>
+
+<br>
+<br>
+- - - - - - - - - - - - - - - - - CopyRight(C) 2000-2003, NJU Lily
+BBS - - - - - - - - - - - - - - - - -<br>
+<br>
+<font style='font-size:14px'>您是本站第 <font color=
+"green">126000519</font> 位访问者</font></center>
+
+<br>
+ <br>
+</body>
+</html>
+

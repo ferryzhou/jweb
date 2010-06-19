@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>李彦宏</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>李彦宏</keyword>
+   </url>
+   <outfile>iask_liyanhong.xml</outfile>
+</rssgenconfig>

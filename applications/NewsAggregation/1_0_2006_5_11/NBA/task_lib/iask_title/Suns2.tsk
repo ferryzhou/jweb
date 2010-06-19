@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>太阳</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern_page2.txt</patternfile>
+     <keyword>太阳</keyword>
+   </url>
+   <filter type="class">com.iil.web.rssgen.filter.iask.sports</filter>
+   <outfile>iask_suns2.xml</outfile>
+</rssgenconfig>

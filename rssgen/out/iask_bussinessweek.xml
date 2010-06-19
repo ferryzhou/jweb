@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>商业周刊</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>商业周刊：中印市场成诺基亚摩托罗拉决战地</title>
+            <link>http://tech.sina.com.cn/it/2006-03-21/1911873234.shtml</link>
+            <description/>
+            <pubDate>Tue, 21 Mar 2006 19:11:57 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：本地化策略让诺基亚领导中印市场</title>
+            <link>http://tech.sina.com.cn/t/2006-03-20/1313871774.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:13:39 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：中印手机市场成战场 诺基亚领跑</title>
+            <link>http://tech.sina.com.cn/t/2006-03-19/1023871036.shtml</link>
+            <description/>
+            <pubDate>Sun, 19 Mar 2006 10:23:10 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：IP电话成为主流谁将成为赢家？</title>
+            <link>http://tech.sina.com.cn/t/2006-03-18/0951870804.shtml</link>
+            <description/>
+            <pubDate>Sat, 18 Mar 2006 09:51:00 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：微软企业市场挑战IBM 任重道远</title>
+            <link>http://tech.sina.com.cn/it/2006-03-17/1619870575.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Mar 2006 16:19:55 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：企业IP通信市场静待杀手级应用</title>
+            <link>http://tech.sina.com.cn/t/2006-03-15/1757868333.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:57:25 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>《商业周刊》：互联网基金看好搜狐搜索业务---财...</title>
+            <link>http://www.hnby.com.cn/xwzx/cj/t20060314_445072.htm</link>
+            <description/>
+            <pubDate>Tue, 14 Mar 2006 09:28:58 +0800</pubDate>
+            <dc:creator>河南报业网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：互联网基金经理看好新浪搜狐前景</title>
+            <link>http://tech.sina.com.cn/i/2006-03-13/2223865881.shtml</link>
+            <description/>
+            <pubDate>Mon, 13 Mar 2006 22:23:34 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：全球计算机厂商们面临成长的烦恼</title>
+            <link>http://tech.sina.com.cn/it/2006-03-12/0920864439.shtml</link>
+            <description/>
+            <pubDate>Sun, 12 Mar 2006 09:20:43 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：eBay通过参股向社区网络市场渗透_eNe...</title>
+            <link>http://www.enet.com.cn/article/2006/0311/A20060311510570.shtml</link>
+            <description/>
+            <pubDate>Sat, 11 Mar 2006 15:50:18 +0800</pubDate>
+            <dc:creator>ENET硅谷动力</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title/>
+            <link/>
+            <description/>
+            <pubDate/>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：Skype掘金小型企业网络电话市场_eNet...</title>
+            <link>http://www.enet.com.cn/article/2006/0311/A20060311510598.shtml</link>
+            <description/>
+            <pubDate>Sat, 11 Mar 2006 15:50:01 +0800</pubDate>
+            <dc:creator>ENET硅谷动力</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：苹果Mac OS X系统并非不堪一击</title>
+            <link>http://tech.sina.com.cn/it/2006-03-09/1446862590.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Mar 2006 14:46:07 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：微软新搜索短期不可能超Google</title>
+            <link>http://tech.sina.com.cn/i/2006-03-08/1546861396.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 15:46:09 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：AMD潮起扬帆 英特尔打响保卫战_eNet新...</title>
+            <link>http://www.enet.com.cn/article/2006/0307/A20060307508664.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 08:49:20 +0800</pubDate>
+            <dc:creator>硅谷动力</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：AMD蚕食市场份额 英特尔打保卫战</title>
+            <link>http://tech.sina.com.cn/it/2006-03-07/0840859483.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 08:40:00 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：索尼Walkman叫板iPod仍纸上谈兵_新闻...</title>
+            <link>http://news.jschina.com.cn/gb/jschina/news/node7782/node7787/userobject1ai1170391.html</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 10:49:43 +0800</pubDate>
+            <dc:creator>中国江苏网</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：索尼Walkman叫板iPod仍纸上谈兵</title>
+            <link>http://tech.sina.com.cn/it/2006-03-06/0751857981.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 07:51:36 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：开源世界遭遇尴尬 商业味日趋浓厚</title>
+            <link>http://tech.sina.com.cn/it/2006-03-05/1125857792.shtml</link>
+            <description/>
+            <pubDate>Sun, 05 Mar 2006 11:25:00 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：甲骨文是开源助力还是开源阻力？_eNe...</title>
+            <link>http://www.enet.com.cn/article/2006/0304/A20060304508095.shtml</link>
+            <description/>
+            <pubDate>Sat, 04 Mar 2006 16:58:40 +0800</pubDate>
+            <dc:creator>ENET硅谷动力</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>商业周刊：Google疏远华尔街 业务单一受疑</title>
+            <link>http://tech.sina.com.cn/i/2006-03-03/0921856766.shtml</link>
+            <description/>
+            <pubDate>Fri, 03 Mar 2006 09:21:12 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

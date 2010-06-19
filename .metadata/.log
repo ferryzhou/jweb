@@ -1,0 +1,52 @@
+!SESSION 2004-12-28 19:46:09.384 -----------------------------------------------
+eclipse.buildId=I20041216-2000
+java.version=1.5.0-beta
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -data C:\zj\eclipseprojects\JWeb -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 1 0 2004-12-28 19:46:09.384
+!MESSAGE Conversion of local history completed successfully. 
+!SESSION 2006-02-08 00:13:51.524 -----------------------------------------------
+eclipse.buildId=I20041216-2000
+java.version=1.5.0-beta
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2006-02-08 00:13:51.534
+!MESSAGE Unhandled event loop exception
+
+!ENTRY org.eclipse.ui 4 0 2006-02-08 00:13:51.584
+!MESSAGE Widget is disposed
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:2827)
+	at org.eclipse.swt.SWT.error(SWT.java:2752)
+	at org.eclipse.swt.SWT.error(SWT.java:2723)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:388)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:290)
+	at org.eclipse.swt.widgets.Label.setImage(Label.java:333)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.updateForClearBlocked(ProgressMonitorDialog.java:256)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog$ProgressMonitor.clearBlocked(ProgressMonitorDialog.java:237)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog$3.clearBlocked(ProgressMonitorJobsDialog.java:420)
+	at org.eclipse.ui.internal.progress.ProgressMonitorFocusJobDialog$6.run(ProgressMonitorFocusJobDialog.java:192)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:118)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:2780)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2451)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1569)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1540)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:285)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:144)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:102)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:220)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:273)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:185)
+	at org.eclipse.core.launcher.Main.run(Main.java:710)
+	at org.eclipse.core.launcher.Main.main(Main.java:694)

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Yahoo</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>客户诉讼雅虎搜索广告欺诈点击增加成本</title>
+            <link>http://www.donews.com/Content/200605/e0f9ae9938b84299a5da0436ead43c75.shtm</link>
+            <description/>
+            <pubDate>Thu, 04 May 2006 10:15:50 +0800</pubDate>
+            <dc:creator>DoNews</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>客户诉讼雅虎搜索广告欺诈点击增加成本</title>
+            <link>http://tech.sina.com.cn/i/2006-05-04/0908926364.shtml</link>
+            <description/>
+            <pubDate>Thu, 04 May 2006 09:08:50 +0800</pubDate>
+            <dc:creator>新浪</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title/>
+            <link/>
+            <description/>
+            <pubDate/>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>雅虎发力，搜索竞价市场上演三强争霸赛</title>
+            <link>http://www.zjscdb.com/dispArticle.Asp?ID=18766</link>
+            <description/>
+            <pubDate>Fri, 28 Apr 2006 10:47:44 +0800</pubDate>
+            <dc:creator>浙江市场导报</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Google雅虎美国搜索市场份额攀升 MSN下滑</title>
+            <link>http://www.donews.com/Content/200604/9a37a2e821c74149b0ad1cc67124d9ae.shtm</link>
+            <description/>
+            <pubDate>Fri, 28 Apr 2006 09:23:06 +0800</pubDate>
+            <dc:creator>DoNews</dc:creator>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>推陈出新赢得用户忠诚 Google雅虎搜索量压倒MSN...</title>
+            <link>http://www.p5w.net/p5w/home/news/international/200604261086.html</link>
+            <description/>
+            <pubDate>Wed, 26 Apr 2006 10:13:37 +0800</pubDate>
+            <dc:creator>全景网</dc:creator>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

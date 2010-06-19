@@ -1,0 +1,62 @@
+
+An unexpected exception has been detected in native code outside the VM.
+Unexpected Signal : EXCEPTION_ACCESS_VIOLATION occurred at PC=0x6D063A4B
+Function=Java_sun_print_Win32PrintJob_printRawData+0x1FCE
+Library=D:\j2sdk1.4.0\jre\bin\awt.dll
+
+Current Java thread:
+	at sun.awt.windows.Win32OffScreenSurfaceData.nativeDispose(Native Method)
+	at sun.awt.windows.Win32OffScreenSurfaceData.dispose(Win32OffScreenSurfaceData.java:255)
+	at sun.awt.windows.Win32OffScreenSurfaceData.finalize(Win32OffScreenSurfaceData.java:244)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:83)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:14)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:160)
+
+Dynamic libraries:
+0x00400000 - 0x00406000 	D:\j2sdk1.4.0\bin\java.exe
+0x77F80000 - 0x77FFB000 	C:\WINNT\system32\ntdll.dll
+0x796D0000 - 0x79732000 	C:\WINNT\system32\ADVAPI32.dll
+0x77E60000 - 0x77F38000 	C:\WINNT\system32\KERNEL32.DLL
+0x786F0000 - 0x7875E000 	C:\WINNT\system32\RPCRT4.DLL
+0x78000000 - 0x78045000 	C:\WINNT\system32\MSVCRT.dll
+0x6D330000 - 0x6D442000 	D:\j2sdk1.4.0\jre\bin\client\jvm.dll
+0x77DF0000 - 0x77E55000 	C:\WINNT\system32\USER32.dll
+0x77F40000 - 0x77F7C000 	C:\WINNT\system32\GDI32.DLL
+0x77530000 - 0x77560000 	C:\WINNT\system32\WINMM.dll
+0x75E00000 - 0x75E1A000 	C:\WINNT\system32\IMM32.DLL
+0x6D1D0000 - 0x6D1D7000 	D:\j2sdk1.4.0\jre\bin\hpi.dll
+0x6D300000 - 0x6D30D000 	D:\j2sdk1.4.0\jre\bin\verify.dll
+0x6D210000 - 0x6D228000 	D:\j2sdk1.4.0\jre\bin\java.dll
+0x6D320000 - 0x6D32D000 	D:\j2sdk1.4.0\jre\bin\zip.dll
+0x6D000000 - 0x6D0F6000 	D:\j2sdk1.4.0\jre\bin\awt.dll
+0x777C0000 - 0x777DE000 	C:\WINNT\system32\WINSPOOL.DRV
+0x79A90000 - 0x79AA1000 	C:\WINNT\system32\MPR.DLL
+0x77A30000 - 0x77B1C000 	C:\WINNT\system32\ole32.dll
+0x6D180000 - 0x6D1D0000 	D:\j2sdk1.4.0\jre\bin\fontmanager.dll
+0x69500000 - 0x69862000 	C:\WINNT\system32\nvoglnt.dll
+0x37210000 - 0x37248000 	C:\WINNT\DOWNLO~1\CnsMin.dll
+0x70BD0000 - 0x70C34000 	C:\WINNT\system32\SHLWAPI.dll
+0x777E0000 - 0x777E7000 	C:\WINNT\system32\VERSION.dll
+0x75950000 - 0x75956000 	C:\WINNT\system32\LZ32.DLL
+0x60000000 - 0x6004B000 	C:\WINNT\system32\MSCTF.dll
+0x37F00000 - 0x37F16000 	D:\Program Files\Kingsoft\XDict\Cjktl32.dll
+0x73C00000 - 0x73C12000 	C:\WINNT\system32\PINTLGNT.IME
+0x73C40000 - 0x73C92000 	C:\WINNT\system32\IME\PINTLGNT\PINTIME.DLL
+0x72760000 - 0x727A6000 	C:\WINNT\system32\ddraw.dll
+0x72800000 - 0x72806000 	C:\WINNT\system32\DCIMAN32.dll
+0x11E60000 - 0x11E63000 	C:\WINNT\mui\fallback\0804\msctf.dll.mui
+0x78F90000 - 0x791D8000 	C:\WINNT\system32\shell32.dll
+0x71780000 - 0x7180A000 	C:\WINNT\system32\COMCTL32.DLL
+0x77990000 - 0x77A2B000 	C:\WINNT\system32\OLEAUT32.DLL
+0x77900000 - 0x77923000 	C:\WINNT\system32\imagehlp.dll
+0x72960000 - 0x7298D000 	C:\WINNT\system32\DBGHELP.dll
+0x687E0000 - 0x687EB000 	C:\WINNT\system32\PSAPI.DLL
+
+Local Time = Fri Dec 19 20:06:08 2003
+Elapsed Time = 250530
+#
+# The exception above was detected in native code outside the VM
+#
+# Java VM: Java HotSpot(TM) Client VM (1.4.0-b92 mixed mode)
+#

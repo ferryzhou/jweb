@@ -1,0 +1,40 @@
+Information Extraction from Free Text
+<h5>Ferry Zhou 2004-7-18</h5>
+
+To extract something, we need an extraction language first. 
+<p>
+We want to seperate extraction logic from code. Therefore, using specific 
+extraction language to describe extraction rules and a general execution engine 
+is a proper way.
+</p>
+<p>
+So, the main task is to create an extraction language and build such an execution engine.
+</p>
+<p>
+Free text can only be seen as a character string with no structure like xml, therefore, 
+string pattern is the only way to locate the information what we want to extract.
+</p>
+<p>
+In fact, string pattern has been researched for long time. It is regular expression. Regular
+expression can used to consturct a string pattern, with the pattern, any string that match the
+pattern can be found and extracted. 
+</p>
+<p>
+Many programming languages have library for manupulating regular expression. In Java, it is in 
+java.util.regex package. Much informaiton can be found in javadoc of Pattern class.
+</p>
+<p>
+Although regular expression has been very strong, for many practical problems, it is not 
+enough.
+<ol>
+<li>Reuse. For example: "邮 政 编 码" , "邮政编码" and "联 系 方 式", "联系方式", the pattern construcion method is same. Keywords dictionary.</li>
+<li>Simplicity. For example: "地址：xxxx".</li>
+<li>Complex logic. For example: extract a sentence that contain a specific pattern. Or, "/**...*/". Such patterns can't be expressed with regular expression.</li>
+<li>Complex structured object. For example, extract date, address and etc.
+</ol>
+Moreover, I think java package is not convenient for information extraction. 
+So, for extensibility, resusablity and simplicity, I developed my library.
+</p>
+<p>
+The core class is EPattern. 
+</p>

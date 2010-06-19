@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>通信世界</title>
+        <description>Powered by Ferry(v0.02)</description>
+        <link>http://www.myjavaserver.com/~ferryzhou/rss/rss_main.htm</link>
+        <language>zh-cn</language>
+        <dc:creator>ferryzhou@gmail.com</dc:creator>
+        <image>
+            <title>My Blog：</title>
+            <url>http://www.myjavaserver.com/~ferryzhou/chromatic.jpg</url>
+            <link>http://ferryslife.blogbus.com/index.html</link>
+        </image>
+        <item>
+            <title>英国999号码压力过大 将推统一非紧急类短号</title>
+            <link>http://tech.sina.com.cn/t/2006-03-23/1454875638.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Mar 2006 14:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>高通和德信无线投资成立德信软件中国公司</title>
+            <link>http://tech.sina.com.cn/t/2006-03-22/1737874606.shtml</link>
+            <description/>
+            <pubDate>Wed, 22 Mar 2006 17:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>ISC公布垃圾邮件投诉 295个IP地址上黑名单</title>
+            <link>http://tech.sina.com.cn/i/2006-03-22/1745874620.shtml</link>
+            <description/>
+            <pubDate>Wed, 22 Mar 2006 17:45:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>高通和德信无线投资成立德信软件中国公司</title>
+            <link>http://tech.sina.com.cn/t/2006-03-22/1737874606.shtml</link>
+            <description/>
+            <pubDate>Wed, 22 Mar 2006 17:37:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>德信无线涉黑事件是打击黑手机的一个好契机</title>
+            <link>http://tech.sina.com.cn/t/2006-03-22/1540874450.shtml</link>
+            <description/>
+            <pubDate>Wed, 22 Mar 2006 15:40:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>一个谣言说中国要提交一个技术</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1656872015.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 16:56:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>肩负重任的大唐</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1553871969.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 15:53:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>后记：让中国抓住一个机会</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1357871835.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA蓄势待发</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1347871829.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:47:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD加速发展</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1342871827.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:42:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA产业联盟成立：思维突破</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1339871821.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:39:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA发展困境中的转机</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1336871817.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:36:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA曾遭国外反对势力打压</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1334871815.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:34:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>LCR与TSM之争</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1332871812.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:32:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>下篇：TD-SCDMA的产业化之路</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1331871809.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:31:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>围绕TD-SCDMA的交锋</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1329871804.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:29:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA险些错过历史机会</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1325871802.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>香山会议：中国3G标准诞生里程碑</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1323871800.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:23:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA：在零经验上赌一把</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1319871788.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:19:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA前身SCDMA</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1315871780.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:15:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>上篇：TD-SCDMA标准的诞生</title>
+            <link>http://tech.sina.com.cn/roll/2006-03-20/1313871775.shtml</link>
+            <description/>
+            <pubDate>Mon, 20 Mar 2006 13:13:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>通信世界：TD-SCDMA正传</title>
+            <link>http://tech.sina.com.cn/t/2006-03-17/1554870553.shtml</link>
+            <description/>
+            <pubDate>Fri, 17 Mar 2006 15:54:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>运营商3.15承诺象征意义大于现实意义</title>
+            <link>http://tech.sina.com.cn/t/2006-03-15/1749868330.shtml</link>
+            <description/>
+            <pubDate>Wed, 15 Mar 2006 17:49:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>诺基亚CDMA手机结缘联通 2007年目标全球第一</title>
+            <link>http://tech.sina.com.cn/t/2006-03-14/1833867191.shtml</link>
+            <description/>
+            <pubDate>Tue, 14 Mar 2006 18:33:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>北京运营商做服务承诺 网通IPTV年内商用</title>
+            <link>http://tech.sina.com.cn/t/2006-03-14/1522867011.shtml</link>
+            <description/>
+            <pubDate>Tue, 14 Mar 2006 15:22:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国网通计划在2008年推出WIMAX服务</title>
+            <link>http://tech.sina.com.cn/t/2006-03-10/1834864114.shtml</link>
+            <description/>
+            <pubDate>Fri, 10 Mar 2006 18:34:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>高通誓将与英特尔移动WiMAX进行彻底决战</title>
+            <link>http://tech.sina.com.cn/t/2006-03-09/1125862399.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Mar 2006 11:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电子邮件管理办法发布 踏出立法进程关键一步</title>
+            <link>http://tech.sina.com.cn/i/2006-03-09/1123862395.shtml</link>
+            <description/>
+            <pubDate>Thu, 09 Mar 2006 11:23:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电子产品防污办法出台 信产部解读关键词</title>
+            <link>http://tech.sina.com.cn/it/2006-03-08/1601861407.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 16:01:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IPTV成长的烦恼</title>
+            <link>http://tech.sina.com.cn/t/2006-03-08/1457861329.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 14:57:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>IPTV——交互式多媒体播放业务中的先行者</title>
+            <link>http://tech.sina.com.cn/t/2006-03-08/1452861326.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 14:52:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>通信世界：WAPI产业联盟成立 标准之争再起波澜</title>
+            <link>http://tech.sina.com.cn/t/2006-03-08/1451861324.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 14:51:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>中国企业首次赴美维权 自主创新打通国际之路</title>
+            <link>http://tech.sina.com.cn/it/2006-03-08/1449861322.shtml</link>
+            <description/>
+            <pubDate>Wed, 08 Mar 2006 14:49:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>杨海峰：全球手机市场趋向垄断为国内企业示警</title>
+            <link>http://tech.sina.com.cn/t/2006-03-07/1100859779.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 11:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>TD-SCDMA独立组网并非全国只建TD一张网</title>
+            <link>http://tech.sina.com.cn/t/2006-03-07/1011859700.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 10:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>俄罗斯运营商图谋境外扩张 独联体机会有限</title>
+            <link>http://tech.sina.com.cn/t/2006-03-07/0752859271.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 07:52:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>通信世界：国外运营商竞技3GSM大会</title>
+            <link>http://tech.sina.com.cn/t/2006-03-07/0743859247.shtml</link>
+            <description/>
+            <pubDate>Tue, 07 Mar 2006 07:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>黑手机专项整治行动各方观点</title>
+            <link>http://tech.sina.com.cn/t/2006-03-06/1815859056.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 18:15:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>专家为打击黑手机建言 卖场降价迫其离市</title>
+            <link>http://tech.sina.com.cn/t/2006-03-06/1812859054.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 18:12:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>信产部手机打黑初战告捷 专项整治五大经验</title>
+            <link>http://tech.sina.com.cn/t/2006-03-06/1803859046.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 18:03:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>国外频率政策动态对我国3G频率规划的启示</title>
+            <link>http://tech.sina.com.cn/t/2006-03-06/1630858955.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 16:30:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>3G运营商挺进HSDPA 应用场景分析和引入策略</title>
+            <link>http://tech.sina.com.cn/t/2006-03-06/1625858945.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 16:25:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>打黑过后手机厂商尽开颜</title>
+            <link>http://tech.sina.com.cn/t/2006-03-06/1618858940.shtml</link>
+            <description/>
+            <pubDate>Mon, 06 Mar 2006 16:18:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>北京电讯卖场黑手机登堂入室 商标酷似行货</title>
+            <link>http://tech.sina.com.cn/t/2006-03-01/1011854504.shtml</link>
+            <description/>
+            <pubDate>Wed, 01 Mar 2006 10:11:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>电信运营商网络屡屡被侵谁之过</title>
+            <link>http://tech.sina.com.cn/i/2006-02-28/1139853526.shtml</link>
+            <description/>
+            <pubDate>Tue, 28 Feb 2006 11:39:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>我国将采用新互联网域名体系 3月1日起施行</title>
+            <link>http://tech.sina.com.cn/i/2006-02-27/1115852157.shtml</link>
+            <description/>
+            <pubDate>Mon, 27 Feb 2006 11:15:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>用户入网服务合同何不公开征询消费者意见</title>
+            <link>http://tech.sina.com.cn/t/2006-02-24/1543851083.shtml</link>
+            <description/>
+            <pubDate>Fri, 24 Feb 2006 15:43:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>Sprint Nextel公布05年业绩 净利48亿美元</title>
+            <link>http://tech.sina.com.cn/t/2006-02-24/0100850168.shtml</link>
+            <description/>
+            <pubDate>Fri, 24 Feb 2006 01:00:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>张新生：发展IPTV应坚持自主创新</title>
+            <link>http://tech.sina.com.cn/t/2006-02-23/1112849630.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Feb 2006 11:12:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+        <item>
+            <title>信产部专家：IPTV年底将出台18项研究标准</title>
+            <link>http://tech.sina.com.cn/t/2006-02-23/1107849624.shtml</link>
+            <description/>
+            <pubDate>Thu, 23 Feb 2006 11:07:00 +0800</pubDate>
+            <dc:creator/>
+            <dc:subject/>
+        </item>
+    </channel>
+</rss>

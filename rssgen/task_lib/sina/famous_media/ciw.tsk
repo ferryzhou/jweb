@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>中国计算机报</title>
+   <lecdir>sina/famous_media</lecdir>
+   <url>
+     <link>http://tech.sina.com.cn/famous_media/CIW.html</link>
+   </url>
+   <outfile>sina_famous_media_ciw.xml</outfile>
+</rssgenconfig>

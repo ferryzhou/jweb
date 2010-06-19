@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>通信产业报</title>
+   <lecdir>sina/famous_media</lecdir>
+   <url>
+     <link>http://tech.sina.com.cn/famous_media/TXCYB.shtml</link>
+   </url>
+   <outfile>sina_famous_media_txcyb.xml</outfile>
+</rssgenconfig>

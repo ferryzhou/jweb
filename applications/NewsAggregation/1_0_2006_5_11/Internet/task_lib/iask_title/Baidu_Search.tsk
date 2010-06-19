@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>Baidu Search</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>百度+搜索</keyword>
+   </url>
+   <outfile>iask_baidu_search.xml</outfile>
+</rssgenconfig>

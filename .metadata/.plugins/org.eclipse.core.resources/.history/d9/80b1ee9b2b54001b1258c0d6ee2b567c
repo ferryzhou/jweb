@@ -1,0 +1,52 @@
+/*
+ * Created on 2006-10-4
+ *
+ * TODO To change the template for this generated file go to
+ * Window - Preferences - Java - Code Style - Code Templates
+ */
+package com.iil.web.jrssreader;
+
+import java.net.URL;
+import java.io.InputStreamReader;
+import com.sun.syndication.feed.synd.*;
+import com.sun.syndication.io.SyndFeedInput;
+import com.sun.syndication.io.XmlReader;
+
+/**
+ * @author ferry zhou
+ *
+ * use ROME
+ */
+public class JRSSFromFeed {
+
+	public JRSS read(URL url) throws Exception {
+		SyndFeedInput input = new SyndFeedInput();
+        SyndFeed feed = input.build(new XmlReader(url));
+        JRSS jrss = new JRSS();
+        jrss.title = feed.getTitle();
+        jrss.description = feed.getDescription();
+        jrss.creator = feed.getAuthor();
+        jrss.link = feed.getLink();
+        jrss.language = feed.getLanguage();
+        for(Object entry : feed.getEntries()) {
+        	jrss.items.add(entryToNewsItem((SyndEntry)entry));
+        }
+        return jrss;
+	}
+	
+	private NewsItem entryToNewsItem(SyndEntry entry) {
+		NewsItem item = new NewsItem();
+		item.author = entry.getAuthor();
+		item.description = entry.getDescription().getValue();
+		item.title = entry.getTitle();
+		item.url = entry.getLink();
+		item.pubDate = entry.getPublishedDate();
+		return item;
+	}
+	
+	public static void main(String[] args) throws Exception{
+		URL url = new URL("http://news.google.com/news?hl=zh-CN&ned=&q=%E6%9B%BE%E5%BA%86%E7%BA%A2&ie=UTF-8&output=rss&ned=:ePkh8BM9E-LV4nyya9KLxinP9040YBHi0GJzz89Pz0kV4tJiK09NMtIzAIrCbK4E2wdS9GzCnOdbFkmxVmXoOvsBLc3TYDQSiH2amvK-aqtp_1eFtWZVgh8BKV0dxA");
+		JRSS jrss = read(url);
+		System.out.println(jrss);
+	}
+}

@@ -1,0 +1,17 @@
+[3]	R. Hartley. Theory and practice of projective rectification. IJCV, 35(2):1-16, Nov. 1999. 
+[4]	R. Hartley and A. Zisserman. Multiple view geometry in computer vision. Cambridge University, Cambridge, 2nd edition, 2003.
+[5]	R. I. Hartley. In defense of the eight-point algorithm. IEEE Transactions on Pattern Analysis and Machine Intelligence, 19(6), 1997. 
+[6]	F. Isgr辰, E. Trucco. On Robust Rectification for Uncalibrated Images. In  ICIAP, pages 297-302 1999.
+[7]	C. Loop and Z. Zhang. Computing rectifying homographies for stero vision. In CVPR, pages 125-131, 1999.
+[8]	M. Pollefeys, R. Koch and L. Van Gool, A simple and efficient rectification method for general motion, In ICCV, pages 496-501, Sep. 1999.
+[9]	C. L. Zitnick, S. B. Kang, M. Uyttendaele, S. A. J. Winder, and R. Szeliski. High-quality Video View Interpolation Using a Layered Representation. In SIGGRAPH, Volume 23, pages 600-608, Aug, 2004.
+[10]	Z. Zhang. Determining the epipolar geometry and its uncertainty: a review. In IJCV, 27(2):161每195, March 1998.
+[11]	Website: http://www.sharp3d.com/
+[12]	Website: http://www.ddd.com/
+[13]	J. Shao, J. Flack, S. Fox, P. Harman. Automatic 2D to 3D footage conversion for 3D glasses-free display systems. Demonstration at ICCV 2003.
+[14]	N. Ayache and C. Hansen, Rectification of images for binocular and trinocular stereovision, IEEE ICPR, Rome, Italy, 1988, pp. 11每16
+[15]	N. Ayache and C. Hansen, Trinocular stereo vision for robotics, IEEE Trans. Pattern Anal. Mach. Intell., 1991, 13, pp. 73每85
+[16]	Z. Chen, C. Wu, and H.T. Tsui, A new image rectification algorithm, Pattern Recognit. Lett., 2003, 24, (1-3), pp. 251每260
+[17]	D.V. Papadimitriou, and T.J. Dennis, Epipolar line estimation and rectification for stereo image pairs, IEEE Trans. Image Process., 1996, 5, (4), pp. 672每676
+[18]	H.H.P. Wu, Y.H. Yu, W.C. Chen, Projective rectification based on relative modification and size extension for stereo image pairs, VISP(152), No. 5, October 2005, pp. 623-633.
+[19]	J. Mallon, P.F.Whelan, Projective rectification from the fundamental matrix, IVC(23), No. 7, 1 July 2005, pp. 643-650.

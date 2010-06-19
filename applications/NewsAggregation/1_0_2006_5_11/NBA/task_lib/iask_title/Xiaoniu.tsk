@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rssgenconfig>
+   <title>Сţ</title>
+   <lecdir>iask</lecdir>
+   <url>
+     <patternfile>urlpattern.txt</patternfile>
+     <keyword>Сţ</keyword>
+   </url>
+   <outfile>iask_xiaoniu.xml</outfile>
+</rssgenconfig>

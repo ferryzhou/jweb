@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<window height="738" width="1024" x="0" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="121" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="180" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+<part id="64"/>
+<part id="65"/>
+<part id="66"/>
+<part id="67"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UpdateManager.java" partName="UpdateManager.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/UpdateManager.java" title="UpdateManager.java" tooltip="rssreader/src/com/iil/web/jrssreader/UpdateManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/UpdateManager.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArticleStore.java" partName="ArticleStore.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/ArticleStore.java" title="ArticleStore.java" tooltip="rssreader/src/com/iil/web/jrssreader/ArticleStore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/ArticleStore.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LEConfig.java" partName="LEConfig.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/LEConfig.java" title="LEConfig.java" tooltip="rssgen/src/com/iil/web/rssgen/LEConfig.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/LEConfig.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DOMBuilder.java" partName="DOMBuilder.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/xml/DOMBuilder.java" title="DOMBuilder.java" tooltip="platform/src/com/iil/util/xml/DOMBuilder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/xml/DOMBuilder.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListExtractor.java" partName="ListExtractor.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/ListExtractor.java" title="ListExtractor.java" tooltip="rssgen/src/com/iil/web/rssgen/ListExtractor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/ListExtractor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="C:/zj/eclipseprojects/JWeb/fapiao/src/com/iii/web/ie/app/Test.java" title="Test.java" tooltip="fapiao/src/com/iii/web/ie/app/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fapiao/src/com/iii/web/ie/app/Test.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test_XInformationExtractor.java" partName="Test_XInformationExtractor.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/ie/xmlbased/test/Test_XInformationExtractor.java" title="Test_XInformationExtractor.java" tooltip="platform/src/com/iil/ie/xmlbased/test/Test_XInformationExtractor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/ie/xmlbased/test/Test_XInformationExtractor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RSSGenerator2.java" partName="RSSGenerator2.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/RSSGenerator2.java" title="RSSGenerator2.java" tooltip="rssgen/src/com/iil/web/rssgen/RSSGenerator2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/RSSGenerator2.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ItemFilterFactory.java" partName="ItemFilterFactory.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/ItemFilterFactory.java" title="ItemFilterFactory.java" tooltip="rssgen/src/com/iil/web/rssgen/ItemFilterFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/ItemFilterFactory.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RSSGenConfig.java" partName="RSSGenConfig.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/RSSGenConfig.java" title="RSSGenConfig.java" tooltip="rssgen/src/com/iil/web/rssgen/RSSGenConfig.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/RSSGenConfig.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RSSGenerator.java" partName="RSSGenerator.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/RSSGenerator.java" title="RSSGenerator.java" tooltip="rssgen/src/com/iil/web/rssgen/RSSGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/RSSGenerator.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskExecutor.java" partName="TaskExecutor.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/task/TaskExecutor.java" title="TaskExecutor.java" tooltip="rssgen/src/com/iil/task/TaskExecutor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/task/TaskExecutor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="XInformationExtractor.class" partName="XInformationExtractor.class" title="XInformationExtractor.class" tooltip="com.iil.ie.xmlbased.XInformationExtractor" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=rssgen/C:\/zj\/research\/webmining\/bin\/platform2.0.jar&lt;com.iil.ie.xmlbased(XInformationExtractor.class"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ParseException.java" partName="ParseException.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/ParseException.java" title="ParseException.java" tooltip="rssgen/src/com/iil/web/rssgen/ParseException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/ParseException.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Uploader.java" partName="Uploader.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/web/Uploader.java" title="Uploader.java" tooltip="platform/src/com/iil/util/web/Uploader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/web/Uploader.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="InformationExtractionException.class" partName="InformationExtractionException.class" title="InformationExtractionException.class" tooltip="com.iil.ie.InformationExtractionException" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=rssgen/C:\/zj\/research\/webmining\/bin\/platform2.0.jar&lt;com.iil.ie(InformationExtractionException.class"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateConverter.java" partName="DateConverter.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/DateConverter.java" title="DateConverter.java" tooltip="rssgen/src/com/iil/web/rssgen/DateConverter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/DateConverter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleFormatDateConverter.java" partName="SimpleFormatDateConverter.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/SimpleFormatDateConverter.java" title="SimpleFormatDateConverter.java" tooltip="rssgen/src/com/iil/web/rssgen/SimpleFormatDateConverter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/SimpleFormatDateConverter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Stoper.java" partName="Stoper.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/Stoper.java" title="Stoper.java" tooltip="rssgen/src/com/iil/web/rssgen/Stoper.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/Stoper.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NextPageURLExtractor.java" partName="NextPageURLExtractor.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/NextPageURLExtractor.java" title="NextPageURLExtractor.java" tooltip="rssgen/src/com/iil/web/rssgen/NextPageURLExtractor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/NextPageURLExtractor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SinaURLDateConverter.java" partName="SinaURLDateConverter.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/SinaURLDateConverter.java" title="SinaURLDateConverter.java" tooltip="rssgen/src/com/iil/web/rssgen/SinaURLDateConverter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/SinaURLDateConverter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChineseWordSplitter.java" partName="ChineseWordSplitter.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/ChineseWordSplitter.java" title="ChineseWordSplitter.java" tooltip="platform/src/com/iil/word/ChineseWordSplitter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/ChineseWordSplitter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EnglishWordSplitter.java" partName="EnglishWordSplitter.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/EnglishWordSplitter.java" title="EnglishWordSplitter.java" tooltip="platform/src/com/iil/word/EnglishWordSplitter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/EnglishWordSplitter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleWordSplitter.java" partName="SimpleWordSplitter.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/SimpleWordSplitter.java" title="SimpleWordSplitter.java" tooltip="platform/src/com/iil/word/SimpleWordSplitter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/SimpleWordSplitter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Stemmer.java" partName="Stemmer.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/Stemmer.java" title="Stemmer.java" tooltip="platform/src/com/iil/word/Stemmer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/Stemmer.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StopListReader.java" partName="StopListReader.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/StopListReader.java" title="StopListReader.java" tooltip="platform/src/com/iil/word/StopListReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/StopListReader.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WordSplitter.java" partName="WordSplitter.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/WordSplitter.java" title="WordSplitter.java" tooltip="platform/src/com/iil/word/WordSplitter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/WordSplitter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Dict.java" partName="Dict.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/impl/Dict.java" title="Dict.java" tooltip="platform/src/com/iil/word/impl/Dict.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/impl/Dict.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DictLoader.java" partName="DictLoader.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/impl/DictLoader.java" title="DictLoader.java" tooltip="platform/src/com/iil/word/impl/DictLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/impl/DictLoader.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WordProperties.java" partName="WordProperties.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/impl/WordProperties.java" title="WordProperties.java" tooltip="platform/src/com/iil/word/impl/WordProperties.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/impl/WordProperties.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WordPropertyKey.java" partName="WordPropertyKey.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/impl/WordPropertyKey.java" title="WordPropertyKey.java" tooltip="platform/src/com/iil/word/impl/WordPropertyKey.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/impl/WordPropertyKey.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WordSegmenterImpl.java" partName="WordSegmenterImpl.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/word/impl/WordSegmenterImpl.java" title="WordSegmenterImpl.java" tooltip="platform/src/com/iil/word/impl/WordSegmenterImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/word/impl/WordSegmenterImpl.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewsItem.java" partName="NewsItem.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/NewsItem.java" title="NewsItem.java" tooltip="rssreader/src/com/iil/web/jrssreader/NewsItem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/NewsItem.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JRSS.java" partName="JRSS.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/JRSS.java" title="JRSS.java" tooltip="rssreader/src/com/iil/web/jrssreader/JRSS.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/JRSS.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test_TextClassifier.java" partName="Test_TextClassifier.java" path="C:/zj/eclipseprojects/JWeb/dm/src/com/iil/dm/textmining/classification/test/Test_TextClassifier.java" title="Test_TextClassifier.java" tooltip="dm/src/com/iil/dm/textmining/classification/test/Test_TextClassifier.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/dm/src/com/iil/dm/textmining/classification/test/Test_TextClassifier.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DocTermFrequence.java" partName="DocTermFrequence.java" path="C:/zj/eclipseprojects/JWeb/dm/src/com/iil/dm/textmining/preparation/DocTermFrequence.java" title="DocTermFrequence.java" tooltip="dm/src/com/iil/dm/textmining/preparation/DocTermFrequence.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/dm/src/com/iil/dm/textmining/preparation/DocTermFrequence.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test_DocFeatureModelBuilder.java" partName="Test_DocFeatureModelBuilder.java" path="C:/zj/eclipseprojects/JWeb/dm/src/com/iil/dm/textmining/preparation/test/Test_DocFeatureModelBuilder.java" title="Test_DocFeatureModelBuilder.java" tooltip="dm/src/com/iil/dm/textmining/preparation/test/Test_DocFeatureModelBuilder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/dm/src/com/iil/dm/textmining/preparation/test/Test_DocFeatureModelBuilder.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test_DocTermFrequence.java" partName="Test_DocTermFrequence.java" path="C:/zj/eclipseprojects/JWeb/dm/src/com/iil/dm/textmining/preparation/test/Test_DocTermFrequence.java" title="Test_DocTermFrequence.java" tooltip="dm/src/com/iil/dm/textmining/preparation/test/Test_DocTermFrequence.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/dm/src/com/iil/dm/textmining/preparation/test/Test_DocTermFrequence.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DocFeatureModel.java" partName="DocFeatureModel.java" path="C:/zj/eclipseprojects/JWeb/dm/src/com/iil/dm/textmining/preparation/DocFeatureModel.java" title="DocFeatureModel.java" tooltip="dm/src/com/iil/dm/textmining/preparation/DocFeatureModel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/dm/src/com/iil/dm/textmining/preparation/DocFeatureModel.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringSimilarityCalculator.java" partName="StringSimilarityCalculator.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/StringSimilarityCalculator.java" title="StringSimilarityCalculator.java" tooltip="rssreader/src/com/iil/web/jrssreader/StringSimilarityCalculator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/StringSimilarityCalculator.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JRSSRobot.java" partName="JRSSRobot.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/JRSSRobot.java" title="JRSSRobot.java" tooltip="rssreader/src/com/iil/web/jrssreader/JRSSRobot.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/JRSSRobot.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewsSource.java" partName="NewsSource.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/NewsSource.java" title="NewsSource.java" tooltip="rssreader/src/com/iil/web/jrssreader/NewsSource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/NewsSource.java"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewsQuery.java" partName="NewsQuery.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/NewsQuery.java" title="NewsQuery.java" tooltip="rssreader/src/com/iil/web/jrssreader/NewsQuery.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/NewsQuery.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskRunner.java" partName="TaskRunner.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/TaskRunner.java" title="TaskRunner.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/TaskRunner.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/TaskRunner.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskPool.java" partName="TaskPool.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/thread/TaskPool.java" title="TaskPool.java" tooltip="platform/src/com/iil/util/thread/TaskPool.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/thread/TaskPool.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThreadPool.java" partName="ThreadPool.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/thread/ThreadPool.java" title="ThreadPool.java" tooltip="platform/src/com/iil/util/thread/ThreadPool.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/thread/ThreadPool.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewsExtractionTaskRetriever.java" partName="NewsExtractionTaskRetriever.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/NewsExtractionTaskRetriever.java" title="NewsExtractionTaskRetriever.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/NewsExtractionTaskRetriever.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/NewsExtractionTaskRetriever.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RSSQueryTaskRetriever.java" partName="RSSQueryTaskRetriever.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/RSSQueryTaskRetriever.java" title="RSSQueryTaskRetriever.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/RSSQueryTaskRetriever.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/RSSQueryTaskRetriever.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RSSQuery.java" partName="RSSQuery.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/RSSQuery.java" title="RSSQuery.java" tooltip="rssreader/src/com/iil/web/jrssreader/RSSQuery.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/RSSQuery.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RSSQueryTask.java" partName="RSSQueryTask.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/RSSQueryTask.java" title="RSSQueryTask.java" tooltip="rssreader/src/com/iil/web/jrssreader/RSSQueryTask.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/RSSQueryTask.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileUploader.java" partName="FileUploader.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/FileUploader.java" title="FileUploader.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/FileUploader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/FileUploader.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClusterRepair.java" partName="ClusterRepair.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/ClusterRepair.java" title="ClusterRepair.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/ClusterRepair.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/ClusterRepair.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KeywordsBasedItemFilter.java" partName="KeywordsBasedItemFilter.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/KeywordsBasedItemFilter.java" title="KeywordsBasedItemFilter.java" tooltip="rssgen/src/com/iil/web/rssgen/KeywordsBasedItemFilter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/KeywordsBasedItemFilter.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="yahoo.java" partName="yahoo.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/filter/iask/yahoo.java" title="yahoo.java" tooltip="rssgen/src/com/iil/web/rssgen/filter/iask/yahoo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/filter/iask/yahoo.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="sina_tech.java" partName="sina_tech.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/filter/iask/sina_tech.java" title="sina_tech.java" tooltip="rssgen/src/com/iil/web/rssgen/filter/iask/sina_tech.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/filter/iask/sina_tech.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test_NewsExtraction.java" partName="Test_NewsExtraction.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/Test_NewsExtraction.java" title="Test_NewsExtraction.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/Test_NewsExtraction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/Test_NewsExtraction.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewsCluster.java" partName="NewsCluster.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/NewsCluster.java" title="NewsCluster.java" tooltip="rssreader/src/com/iil/web/jrssreader/NewsCluster.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/NewsCluster.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTMLNewsQuery.java" partName="HTMLNewsQuery.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/HTMLNewsQuery.java" title="HTMLNewsQuery.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/HTMLNewsQuery.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/HTMLNewsQuery.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryTaskRetriever.java" partName="QueryTaskRetriever.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/task/QueryTaskRetriever.java" title="QueryTaskRetriever.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/QueryTaskRetriever.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/task/QueryTaskRetriever.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="sports.java" partName="sports.java" path="C:/zj/eclipseprojects/JWeb/rssgen/src/com/iil/web/rssgen/filter/iask/sports.java" title="sports.java" tooltip="rssgen/src/com/iil/web/rssgen/filter/iask/sports.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssgen/src/com/iil/web/rssgen/filter/iask/sports.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpClient.java" partName="HttpClient.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/web/HttpClient.java" title="HttpClient.java" tooltip="platform/src/com/iil/util/web/HttpClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/web/HttpClient.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JavaHttpClient.java" partName="JavaHttpClient.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/web/JavaHttpClient.java" title="JavaHttpClient.java" tooltip="platform/src/com/iil/util/web/JavaHttpClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/web/JavaHttpClient.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTMLWrapper.java" partName="HTMLWrapper.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/web/HTMLWrapper.java" title="HTMLWrapper.java" tooltip="platform/src/com/iil/util/web/HTMLWrapper.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/web/HTMLWrapper.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTML2DOM.java" partName="HTML2DOM.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/web/HTML2DOM.java" title="HTML2DOM.java" tooltip="platform/src/com/iil/util/web/HTML2DOM.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/web/HTML2DOM.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DOMTreeView.java" partName="DOMTreeView.java" path="C:/zj/eclipseprojects/JWeb/platform/src/com/iil/util/xml/DOMTreeView.java" title="DOMTreeView.java" tooltip="platform/src/com/iil/util/xml/DOMTreeView.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/platform/src/com/iil/util/xml/DOMTreeView.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JRSSFromFeed.java" partName="JRSSFromFeed.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java" title="JRSSFromFeed.java" tooltip="rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FeedReader.java" partName="FeedReader.java" path="C:/zj/eclipseprojects/JWeb/rssreader/src/com/iil/web/jrssreader/FeedReader.java" title="FeedReader.java" tooltip="rssreader/src/com/iil/web/jrssreader/FeedReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rssreader/src/com/iil/web/jrssreader/FeedReader.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="XmlReader.class" partName="XmlReader.class" title="XmlReader.class" tooltip="com.sun.syndication.io.XmlReader" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=rssreader/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io(XmlReader.class"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState columnWidth0="19" columnWidth1="19" columnWidth2="288" columnWidth3="108" columnWidth4="216" columnWidth5="86" horizontalPosition="0" verticalPosition="0">
+<selection/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState org.eclipse.debug.ui.variablesView.SASH_WEIGHTS-0="684" org.eclipse.debug.ui.variablesView.SASH_WEIGHTS-1="315" org.eclipse.debug.ui.variablesView.SASH_WEIGHTS-Length="2"/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+</filters>
+</viewState>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.sorting="2"/>
+<view IMemento.internal.id=""/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState layout="2" org.eclipse.jdt.ui.packages.linktoeditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_*$*.class" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState>
+<isTrackingSelection value="false"/>
+<breakpointContainerFactories value=""/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="0" columnWidth1="0" columnWidth2="0" columnWidth3="0" columnWidth4="0" horizontalPosition="0" verticalPosition="0">
+<selection/>
+</viewState>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<actionSet id="org.eclipse.search.searchActionSet"/>
+<actionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<actionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<actionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<actionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.AnnotateView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@128edf2" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25944334" ratioLeft="261" ratioRight="745" relationship="2" relative="topLeft"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@8b058b" ratio="0.6593407" ratioLeft="420" ratioRight="217" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.team.ccvs.ui.console" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.HistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.49921507" ratioLeft="318" ratioRight="319" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<actionSet id="org.eclipse.search.searchActionSet"/>
+<actionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<actionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<actionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<actionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<actionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<actionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<actionSet id="org.eclipse.ui.NavigateActionSet"/>
+<actionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<actionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<actionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.newTextEditor"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.conversion"/>
+<actionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<actionSet id="org.eclipse.jdt.ui.A_OpenActionSet"/>
+<actionSet id="org.eclipse.jdt.ui.CodingActionSet"/>
+<actionSet id="org.eclipse.jdt.ui.SearchActionSet"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<actionSet id="org.eclipse.jdt.ui.text.java.actionSet.presentation"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.newTextEditor"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.conversion"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24950299" ratioLeft="251" ratioRight="755" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.65299684" ratioLeft="414" ratioRight="220" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="4"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@162f16" ratio="0.7496689" ratioLeft="566" ratioRight="189" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<actionSet id="org.eclipse.search.searchActionSet"/>
+<actionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.newTextEditor"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<actionSet id="org.eclipse.ui.edit.text.actionSet.conversion"/>
+<actionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<actionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<actionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<actionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<actionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<actionSet id="org.eclipse.ui.NavigateActionSet"/>
+<actionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<actionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<actionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.newTextEditor"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.conversion"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7488226" ratioLeft="477" ratioRight="160" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.4486373" ratioLeft="214" ratioRight="263" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="503" ratioRight="503" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/JRSS.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=ontopof/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io.impl(PropertiesLoader.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=ontopof/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io.impl(PluginManager.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=ontopof/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io.impl(PropertiesLoader.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/FeedReader.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=rssreader/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io(XmlReader.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/task/HTMLNewsQuery.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/rssreader/src/com/iil/web/jrssreader/NewsQuery.java"/>
+</editors>
+<item historyLabel="JRSS.java" index="0">
+<position info="not_deleted" x="535" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1841" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1005" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="862" y="0"/>
+</item>
+<item historyLabel="JRSS.java" index="0">
+<position info="not_deleted" x="535" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="862" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1841" y="0"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1841" y="0"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1841" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1719" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="1">
+<position info="not_deleted" x="1816" y="0"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="1077" y="91"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2132" y="81"/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position info="not_deleted" x="1060" y="104"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2132" y="81"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2704" y="17"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2132" y="81"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2386" y="0"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2132" y="0"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2132" y="0"/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position info="not_deleted" x="1060" y="104"/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="2">
+<position info="not_deleted" x="2258" y="0"/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position info="not_deleted" x="1060" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="4">
+<position/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="5">
+<position/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="5">
+<position/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="5">
+<position/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="5">
+<position/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="4">
+<position info="not_deleted" x="219" y="0"/>
+</item>
+<item historyLabel="FeedReader.java" index="6">
+<position/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="4">
+<position info="not_deleted" x="1813" y="0"/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="5">
+<position/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="4">
+<position info="not_deleted" x="1813" y="0"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="4">
+<position info="not_deleted" x="1712" y="0"/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position/>
+</item>
+<item historyLabel="PropertiesLoader.class" index="5">
+<position info="not_deleted" x="810" y="16"/>
+</item>
+<item historyLabel="PluginManager.class" index="3">
+<position info="not_deleted" x="1086" y="16"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="4">
+<position info="not_deleted" x="650" y="9"/>
+</item>
+<item historyLabel="XmlReader.class" index="7">
+<position info="not_deleted" x="5577" y="9"/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="8">
+<position/>
+</item>
+<item historyLabel="HTMLNewsQuery.java" index="9">
+<position/>
+</item>
+<item historyLabel="NewsQuery.java" index="10">
+<position/>
+</item>
+<item historyLabel="JRSSFromFeed.java" index="8">
+<position info="not_deleted" x="1377" y="0"/>
+</item>
+<item active="true" historyLabel="NewsQuery.java" index="10">
+<position/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+</window>
+<mruList>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="XmlReader.class" tooltip="com.sun.syndication.io.XmlReader">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=rssreader/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io(XmlReader.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="PropertiesLoader.class" tooltip="com.sun.syndication.io.impl.PropertiesLoader">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=rssreader/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io.impl(PropertiesLoader.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="PluginManager.class" tooltip="com.sun.syndication.io.impl.PluginManager">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=rssreader/C:\/zj\/third party\/rome\/rome-0.8\/bin\/rome-0.8.jar&lt;com.sun.syndication.io.impl(PluginManager.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FeedReader.java" tooltip="rssreader/src/com/iil/web/jrssreader/FeedReader.java">
+<persistable path="/rssreader/src/com/iil/web/jrssreader/FeedReader.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ExceptionInInitializerError.class" tooltip="java.lang.ExceptionInInitializerError">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=dm/C:\/Program Files\/Java\/jre1.5.0_06\/lib\/rt.jar&lt;java.lang(ExceptionInInitializerError.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JRSSFromFeed.java" tooltip="rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java">
+<persistable path="/rssreader/src/com/iil/web/jrssreader/JRSSFromFeed.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DOMTreeView.java" tooltip="platform/src/com/iil/util/xml/DOMTreeView.java">
+<persistable path="/platform/src/com/iil/util/xml/DOMTreeView.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTML2DOM.java" tooltip="platform/src/com/iil/util/web/HTML2DOM.java">
+<persistable path="/platform/src/com/iil/util/web/HTML2DOM.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTMLWrapper.java" tooltip="platform/src/com/iil/util/web/HTMLWrapper.java">
+<persistable path="/platform/src/com/iil/util/web/HTMLWrapper.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JavaHttpClient.java" tooltip="platform/src/com/iil/util/web/JavaHttpClient.java">
+<persistable path="/platform/src/com/iil/util/web/JavaHttpClient.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpClient.java" tooltip="platform/src/com/iil/util/web/HttpClient.java">
+<persistable path="/platform/src/com/iil/util/web/HttpClient.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="sports.java" tooltip="rssgen/src/com/iil/web/rssgen/filter/iask/sports.java">
+<persistable path="/rssgen/src/com/iil/web/rssgen/filter/iask/sports.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryTaskRetriever.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/QueryTaskRetriever.java">
+<persistable path="/rssreader/src/com/iil/web/jrssreader/task/QueryTaskRetriever.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTMLNewsQuery.java" tooltip="rssreader/src/com/iil/web/jrssreader/task/HTMLNewsQuery.java">
+<persistable path="/rssreader/src/com/iil/web/jrssreader/task/HTMLNewsQuery.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewsCluster.java" tooltip="rssreader/src/com/iil/web/jrssreader/NewsCluster.java">
+<persistable path="/rssreader/src/com/iil/web/jrssreader/NewsCluster.java"/>
+</file>
+</mruList>
+</workbench>
