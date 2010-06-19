@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>word</label>
+	</settings>
+	<users>
+		<user>
+			<path>word.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>word.jcp</path>
+		</project>
+		<project>
+			<path>..\JWeb\ontopof\ontopof.jcp</path>
+		</project>
+	</projects>
+</workspace>
